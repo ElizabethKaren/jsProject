@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const demoInput = document.querySelector('#video')
     const edInput = document.querySelector('#ed')
     const workInput = document.querySelector('#work')
+    const algoInput = document.querySelector('#algos')
 
     document.addEventListener('change', (e) => {
         e.target.checked = true
@@ -14,23 +15,35 @@ document.addEventListener('DOMContentLoaded', function(){
             blogInput.checked = false
             edInput.checked = false
             workInput.checked = false
+            algoInput.checked = false
         } else if (e.target.value === 'blogs'){
             container.innerHTML = myBlogs
             edInput.checked = false
             workInput.checked = false
             demoInput.checked = false
+            algoInput.checked = false
         } else if (e.target.value === 'education'){
             container.innerHTML = education
             blogInput.checked = false
             workInput.checked = false
             demoInput.checked = false
+            algoInput.checked = false
         } else if (e.target.value === 'work'){
             container.innerHTML = work
             blogInput.checked = false
             edInput.checked = false
             demoInput.checked = false
+            algoInput.checked = false
+        } else if (e.target.value == 'algos'){
+            container.innerHTML = algoVids
+            blogInput.checked = false
+            edInput.checked = false
+            demoInput.checked = false
+            workInput.checked = false
         }
     })
+
+    const algoVids = `<div class='text'>Coming soon</div>`
 
     const work = `<div class='text'>
             <h3>Head of Production and Product Developemnt at Gina Group</h3>
