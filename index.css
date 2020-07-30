@@ -4,7 +4,8 @@
 }
 #header2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: blue;
+    color: black;
+    text-shadow: 2px 2px darkgray;
 }
 #header3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,8 +19,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #pic{
-    width: 8%;
-    border-radius: 90px;
+    width: 15%;
+    border-radius: 100px;
     height: auto;
 }
 #selector{
@@ -31,4 +32,7 @@
 }
 .title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+head{
+    background-color: rgb(156, 155, 155);
 }
