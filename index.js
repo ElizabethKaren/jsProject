@@ -13,11 +13,9 @@ document.addEventListener('DOMContentLoaded', function(){
         } else if (e.target.value === 'work'){
             container.innerHTML = work
         } else {
-            container.innerHTML = none
+            container.innerHTML = myVids + myBlogs + education + work
         }
     })
-
-    const none = ''
 
     const work = `<div>
             <h3>Head of Production and Product Developemnt at Gina Group</h3>
