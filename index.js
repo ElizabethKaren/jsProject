@@ -17,21 +17,21 @@ document.addEventListener('DOMContentLoaded', function(){
         }
     })
 
-    const work = `<div>
+    const work = `<div class='text'>
             <h3>Head of Production and Product Developemnt at Gina Group</h3>
-            <p> what i  did there </p>
+            <p>Worked with buyers and factory owners in China and India to provide a high-quality product at the lowest price posible</p>
             <h3>Production Coordinaor at Amazon Apparel</h3>
-            <p> what i  did there </p>
+            <p>Curated apparel department inside of Amazons vendor central</p>
             <h3>Production Coordinaor at Mr Noah</h3>
-            <p> what i  did there </p>
+            <p>Engineered detailed spec sheets for over a million dollars worth of apperal</p>
             <h3>Product Developemnt Assistant at Sequin</h3>
-            <p> what i  did there </p>
+            <p>Developed millions of dollars worth of merchandise</p>
             <h3>Product Developemnt Assistant at Alexis Bittar</h3>
-            <p> what i  did there </p>
+            <p>Created internal organizing system for all keep samples</p>
             <h3>Product Developemnt Assistant at Kate Spade</h3>
-            <p> what i  did there </p>
+            <p>Created organizing system for all seasons and styles</p>
             <h3>Jewelry Desiger Assistant at ILD</h3>
-            <p> what i  did there </p>
+            <p>Assisted with jewelry creation</p>
         </div>`
 
     const education = `<div>
