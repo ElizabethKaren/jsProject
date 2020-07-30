@@ -1,6 +1,7 @@
 #header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
+    text-shadow: 2px 2px darkgray;
 }
 #header2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,6 +11,7 @@
 #header3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: purple;
+    text-shadow: 2px 2px darkgray;
 }
 .text{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

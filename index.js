@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function(){
             document.body.style.backgroundColor = "lightgray"
         } else if (e.target.id == 'header2'){
             e.target.id = 'header3'
-            document.body.style.backgroundColor = "rgb(156, 155, 155)"
+            document.body.style.backgroundColor = 'whitesmoke'
         } else if (e.target.id === 'header3'){
             e.target.id = 'header'
             document.body.style.backgroundColor = "whitesmoke"
