@@ -2,18 +2,33 @@ document.addEventListener('DOMContentLoaded', function(){
     const name = document.querySelector('h1')
     const pic = document.querySelector('img')
     const container = document.querySelector('.main-container')
+    const blogInput = document.querySelector('#blogs')
+    const demoInput = document.querySelector('#video')
+    const edInput = document.querySelector('#ed')
+    const workInput = document.querySelector('#work')
 
     document.addEventListener('change', (e) => {
+        e.target.checked = true
         if (e.target.value === 'videos'){
             container.innerHTML = myVids
+            blogInput.checked = false
+            edInput.checked = false
+            workInput.checked = false
         } else if (e.target.value === 'blogs'){
             container.innerHTML = myBlogs
+            edInput.checked = false
+            workInput.checked = false
+            demoInput.checked = false
         } else if (e.target.value === 'education'){
             container.innerHTML = education
+            blogInput.checked = false
+            workInput.checked = false
+            demoInput.checked = false
         } else if (e.target.value === 'work'){
             container.innerHTML = work
-        } else {
-            container.innerHTML = myVids + myBlogs + education + work
+            blogInput.checked = false
+            edInput.checked = false
+            demoInput.checked = false
         }
     })
 
