@@ -1,7 +1,33 @@
 #header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: red
+    color: red;
+}
+#header2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+#header3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
 }
 .text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.video{
+    margin: 70px;
+}
+#pic{
+    width: 8%;
+    border-radius: 90px;
+    height: auto;
+}
+#selector{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blog{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 70px;
+}
+.title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
