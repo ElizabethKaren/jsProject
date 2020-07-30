@@ -73,25 +73,41 @@ document.addEventListener('DOMContentLoaded', function(){
             <p class="text">Fashion Merchandising Buisness</p>
         </div>`
 
-    const myVids = `<div>
+    const myVids = `<div class='text'>
             <div class="video">
+            <h3>Flatsy Shops</h3>
                 <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br>
+                <a href='https://github.com/Liz00000000000/etsy_clone_front_end' target="_blank">React Front End</a>
+                <a href='https://github.com/Liz00000000000/etsy_clone_back_end' target="_blank">Rails Back End</a>
             </div>
 
             <div class="video">
-                <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-
-            <div class="video">
-                <iframe src="https://www.youtube.com/embed/-kHoIrHSYFo" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-
-            <div class="video">
+            <h3>So Not Facebook</h3>
                 <iframe src="https://www.youtube.com/embed/euEMBbeC62U" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br>
+                <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
+                <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
             </div>
 
             <div class="video">
+            <h3>Flatiron Experience Board Game</h3>
+                <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br>
+                <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">Vanilla JavaScript Front End</a>
+                <a href='https://github.com/chefvivica/flatiron_school_experience-api' target="_blank">Rails Back End</a>
+            </div>
+
+            <div class="video">
+            <h3>Covid Quest: A Game Inspired By Quaratine</h3>
+                <iframe src="https://www.youtube.com/embed/-kHoIrHSYFo" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <a href='https://github.com/Liz00000000000/' target='_black">Ruby Terminal</a>
+                </div>
+
+            <div class="video">
+            <h3>Recipe Share</h3>
                 <iframe src="https://www.youtube.com/embed/GsoBDg6MdR8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <a href='https://github.com/Liz00000000000/instaRecipe' target='_black">Rails Full Stack</a>
             </div>
         </div>`
 
