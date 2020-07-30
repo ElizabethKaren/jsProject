@@ -43,7 +43,9 @@ document.addEventListener('DOMContentLoaded', function(){
         }
     })
 
-    const algoVids = `<div class='text'>Coming soon</div>`
+    const algoVids = `<div class='text'>
+        <a href='https://github.com/Liz00000000000/interview_practice_questions' target="_blank">Interview Questions and Solutions Git Hub in Python</a>
+        </div>`
 
     const work = `<div class='text'>
             <h3>Head of Production and Product Developemnt at Gina Group</h3>
@@ -101,13 +103,15 @@ document.addEventListener('DOMContentLoaded', function(){
             <div class="video">
             <h3>Covid Quest: A Game Inspired By Quaratine</h3>
                 <iframe src="https://www.youtube.com/embed/-kHoIrHSYFo" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <a href='https://github.com/Liz00000000000/' target='_black">Ruby Terminal</a>
-                </div>
+                <br>
+                <a href='https://github.com/Liz00000000000/' target="_black">Ruby Terminal</a>
+            </div>
 
             <div class="video">
             <h3>Recipe Share</h3>
                 <iframe src="https://www.youtube.com/embed/GsoBDg6MdR8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <a href='https://github.com/Liz00000000000/instaRecipe' target='_black">Rails Full Stack</a>
+                <br>
+                <a href='https://github.com/Liz00000000000/instaRecipe' target="_black">Rails Full Stack</a>
             </div>
         </div>`
 
