@@ -42,6 +42,9 @@
 .blog{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 70px;
+    /* box-shadow: 10px 10px lightgray;
+    width: fit-content;
+    border-radius: 0%; */
     /* padding: 20px;
     border: black;
     box-shadow: lightgray; */
@@ -72,4 +75,7 @@ h3{
 #white{
     margin-top: 22px;
     color: white;
+}
+img{
+    /* box-shadow: 10px 10px lightgray; */
 }
