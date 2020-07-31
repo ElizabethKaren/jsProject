@@ -1,3 +1,7 @@
+#nav{
+    display: flex;
+    flex-direction: left;
+}
 #header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
@@ -21,7 +25,7 @@
 }
 #pic{
     width: 10%;
-    border-radius: 100px;
+    border-radius: 200px;
     height: auto;
 }
 #selector{
