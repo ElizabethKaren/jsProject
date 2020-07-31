@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function(){
-    const name = document.querySelector('h1')
     const pic = document.querySelector('img')
     const container = document.querySelector('.main-container')
     const blogInput = document.querySelector('#blogs')
@@ -137,19 +136,6 @@ document.addEventListener('DOMContentLoaded', function(){
             <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://miro.medium.com/max/1136/1*5hxbr6t7FcAJLgejLlK7LA.png" width="560" height="315"></a>
         </div>
     </div>`
-
-    name.addEventListener('click', (e) => {
-        if (e.target.id === 'header'){
-            e.target.id = 'header2'
-            document.body.style.backgroundColor = "lightgray"
-        } else if (e.target.id == 'header2'){
-            e.target.id = 'header3'
-            document.body.style.backgroundColor = 'whitesmoke'
-        } else if (e.target.id === 'header3'){
-            e.target.id = 'header'
-            // document.body.style.backgroundColor = "whitesmoke"
-        }
-    })
 
     pic.addEventListener('click',(e) =>{
         const sushiPic = 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/45991353_10212866996014483_4082254848777519104_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=f85f-B4BxqUAX9SB6av&_nc_ht=scontent-lga3-1.xx&oh=3d37e0c28b307209b7e7be8b97127423&oe=5F46A524'
