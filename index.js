@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://github.com/Liz00000000000/interview_practice_questions' target="_blank">Interview Questions and Solutions Git Hub in Python</a>
         </div>`
 
-    const work = `<div class='text'>
+    const work = `<div id='words' class='text'>
             <h3>Head of Production and Product Developemnt at Gina Group</h3>
             <p>Worked with buyers and factory owners in China and India to provide a high-quality product at the lowest price posible</p>
             <h3>Production Coordinaor at Amazon Apparel</h3>
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function(){
             <p>Assisted with jewelry creation</p>
         </div>`
 
-    const education = `<div>
+    const education = `<div id='words'>
             <h3 class="text">Tufts University/School of the Museum of Fine Arts</h3>
             <p class="text">Bachelors Degree in Art History and Fine Arts</p>
 

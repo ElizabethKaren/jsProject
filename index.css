@@ -35,6 +35,6 @@
 .title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-head{
-    background-color: rgb(156, 155, 155);
+#words{
+    margin: 70px;
 }
