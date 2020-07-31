@@ -1,7 +1,6 @@
 #header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
-    text-shadow: 2px 2px darkgray;
 }
 #header2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -21,7 +20,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #pic{
-    width: 15%;
+    width: 10%;
     border-radius: 100px;
     height: auto;
 }
@@ -37,4 +36,9 @@
 }
 #words{
     margin: 70px;
+}
+.blog{
+    border: black;
+    border-radius: 40px;
+    border-width: 50px;
 }
