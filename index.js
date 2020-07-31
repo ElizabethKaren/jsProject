@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function(){
             document.body.style.backgroundColor = 'whitesmoke'
         } else if (e.target.id === 'header3'){
             e.target.id = 'header'
-            document.body.style.backgroundColor = "whitesmoke"
+            // document.body.style.backgroundColor = "whitesmoke"
         }
     })
 
