@@ -4,8 +4,6 @@
 #nav{
     display: flex;
     flex-direction: left;
-    /* margin-left: 10px;
-    margin-top: 20px; */
     background-color: black;
 }
 #header{
@@ -42,13 +40,6 @@
 .blog{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 70px;
-    /* box-shadow: 10px 10px lightgray;
-    width: fit-content;
-    border-radius: 0%; */
-    /* padding: 20px;
-    border: black;
-    box-shadow: lightgray; */
-
 }
 .title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -75,7 +66,4 @@ h3{
 #white{
     margin-top: 22px;
     color: white;
-}
-img{
-    /* box-shadow: 10px 10px lightgray; */
 }

@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function(){
             <p class="text">Fashion Merchandising Buisness</p>
         </div>`
 
-    const myVids = `<div class='text'>
+    const myVids = `<div id='vids-containter' class='text'>
             <div class="video">
             <h3>Flatsy Shops</h3>
                 <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
