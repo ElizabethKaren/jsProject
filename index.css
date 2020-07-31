@@ -1,12 +1,16 @@
+#resume-purpose{
+    background-color: yellow;
+}
 #nav{
     display: flex;
     flex-direction: left;
-    margin-left: 10px;
-    margin-top: 20px;
+    /* margin-left: 10px;
+    margin-top: 20px; */
+    background-color: black;
 }
 #header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: red;
+    color: white;
 }
 #header2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -26,9 +30,11 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #pic{
-    width: 10%;
-    border-radius: 200px;
-    height: auto;
+    width: 5%;
+    border-radius: 100px;
+    height: 5%;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 #selector{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -47,4 +53,7 @@
     border: black;
     border-radius: 40px;
     border-width: 50px;
+}
+h3{
+    color: red;
 }
