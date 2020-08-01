@@ -1,3 +1,7 @@
+/* .main-container{
+    width: 220px;
+    display: inline-block;
+} */
 #resume-purpose{
     background-color: yellow;
 }
@@ -67,3 +71,8 @@ h3{
     margin-top: 22px;
     color: white;
 }
+/* #vids-containter{
+    flex: 50%;
+    width: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
