@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>`
 
     const work = `<div id='words' class='text'>
-            <h3>Head of Production and Product Development at Gina Group</h3>
+            <h3>Production and Product Development Manager at Gina Group</h3>
             <p>Worked with buyers and factory owners in China and India to provide a high-quality product at the lowest price possible</p>
             <h3>Production Coordinator at Amazon Apparel</h3>
             <p>Curated apparel department inside of Amazons vendor central</p>
