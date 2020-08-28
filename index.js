@@ -112,9 +112,8 @@ document.addEventListener('DOMContentLoaded', function(){
                 <a href='https://github.com/Liz00000000000/instaRecipe' target="_black">Rails Full Stack</a>
             </div>`
 
-    const myBlogs = `<div>
-        <div class="blog">
-            <h3 class='title'>I passed every coding challenge at Flatiron School on the first try. Heres how!</h3>
+    const myBlogs = `<div class="blog">
+            <h3 class='title'>How I passed every coding challenge on the first try!</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="560" height="315"></a>
         </div>
         <div class="blog">
@@ -122,18 +121,17 @@ document.addEventListener('DOMContentLoaded', function(){
             <a href='https://medium.com/@elizabeth.michael.karen/binary-search-explained-b3c33d679dec' target="_blank"><img src="https://images.ctfassets.net/j0hmm71qn9y2/6z0UVKYPcE1BNY04iKxUEy/06b098484e982633b7f15969da85fa1c/Typeform-Blog-Gifs-Inline05.gif?w=640" width="560" height="315"></a>
         </div>
         <div class="blog">
-            <h3 class='title'>Replacing While loops in Ruby</h3>
+            <h3 class='title'>Replacing While loops</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/replacing-while-loops-in-ruby-909994622723' target="_blank"><img src="https://media1.giphy.com/media/tKIt3zenrB7CgdRlI2/giphy.gif" width="560" height="315"></a>
         </div>
         <div class="blog">
-            <h3 class='title'>Splice, Slice, and Split in JavaScript</h3> 
+            <h3 class='title'>Splice, Slice, and Split</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/splice-slice-and-split-in-javascript-acbda1a09e75' target="_blank"><img src="https://www.pajiba.com/assets_c/2018/09/sliceposter%202%20%281%29-thumb-700x618-201648.jpg" width="560" height="315"></a>
         </div>
         <div class="blog">
             <h3 class='title'>Case Statements in Ruby</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://miro.medium.com/max/1136/1*5hxbr6t7FcAJLgejLlK7LA.png" width="560" height="315"></a>
-        </div>
-    </div>`
+        </div>`
 
     // pic.addEventListener('click',(e) =>{
     //     const sushiPic = 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/45991353_10212866996014483_4082254848777519104_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=f85f-B4BxqUAX9SB6av&_nc_ht=scontent-lga3-1.xx&oh=3d37e0c28b307209b7e7be8b97127423&oe=5F46A524'
