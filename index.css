@@ -40,8 +40,9 @@ body{
 
 .name-and-pic{
     /* height: 100px; */
+    text-align: center;
     height: 20vh;
-    width: 60vw;
+    /* width: 60vw; */
     display: inline-block;
     margin-left: 30vw;
     /* border: 1px rgb(126, 124, 124);
