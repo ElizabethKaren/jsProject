@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function(){
             </div>`
 
     const myBlogs = `<div class="blog">
-            <h3 class='title'>How I passed every coding challenge on the first try!</h3>
+            <h3 class='title'>How I passed every code challenge on the first try!</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="560" height="315"></a>
         </div>
         <div class="blog">
