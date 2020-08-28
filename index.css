@@ -1,52 +1,58 @@
-/* .main-container{
-    width: 220px;
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: left; 
+    /* height: 70%;
+    width: 100%;
+    position: absolute;
+    width: 100px;
+}
+#buttons{
+    float: left;
+    font-size: 16px;
+    /* color: white; */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; 
+}
+.name-and-pic{
+    /* height: 100px; */
     display: inline-block;
-} */
-#resume-purpose{
-    background-color: yellow;
+    margin-left: 200px;
+}
+#cover-photo{
+    width: 100%;
+    /* height: 80px; */
 }
 #nav{
     display: flex;
     flex-direction: left;
-    background-color: black;
+    background-image: url('./favhob.png');
 }
 #header{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
-}
-#header2{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Lobster', cursive;
     color: black;
-    text-shadow: 2px 2px darkgray;
-}
-#header3{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: purple;
-    text-shadow: 2px 2px darkgray;
 }
 .text{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .video{
-    margin: 70px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    font-family: 'Lobster', cursive;
 }
 #pic{
-    width: 5%;
-    border-radius: 100px;
-    height: 5%;
-    margin-top: 20px;
-    margin-left: 10px;
+    width: 10%;
+    height: 60%;
 }
 #selector{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .blog{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 70px;
+    font-family: 'Lobster', cursive;
+    padding: 30px;
 }
 .title{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Lobster', cursive;
 }
 #words{
     margin: 70px;
@@ -57,19 +63,19 @@
     border-width: 50px;
 }
 h3{
-    color: red;
+    /* color: rgb(76, 76, 243); */
 }
 .footer{
     display: flex;
     flex-direction: row;
     width: 100%;
     height: 60px;
-    background-color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background-color: black; */
+    font-family: 'Lobster', cursive;
 }
 #white{
     margin-top: 22px;
-    color: white;
+    color: black;
 }
 /* #vids-containter{
     flex: 50%;

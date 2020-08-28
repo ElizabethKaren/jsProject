@@ -74,8 +74,7 @@ document.addEventListener('DOMContentLoaded', function(){
             <p class="text">Fashion Merchandising Buisness</p>
         </div>`
 
-    const myVids = `<div id='vids-containter'>
-            <div class="video">
+    const myVids = `<div class="video">
             <h3>Flatsy Shops</h3>
                 <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br>
@@ -111,8 +110,7 @@ document.addEventListener('DOMContentLoaded', function(){
                 <iframe src="https://www.youtube.com/embed/GsoBDg6MdR8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br>
                 <a href='https://github.com/Liz00000000000/instaRecipe' target="_black">Rails Full Stack</a>
-            </div>
-        </div>`
+            </div>`
 
     const myBlogs = `<div>
         <div class="blog">
