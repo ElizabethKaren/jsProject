@@ -1,3 +1,6 @@
+body{
+    font-size: 25px;
+}
 .main-container{
     display: flex;
     flex-wrap: wrap;
@@ -32,6 +35,7 @@
 #header{
     font-family: 'Lobster', cursive;
     color: black;
+    font-size: 30px;
 }
 .text{
     font-family: 'Lobster', cursive;
@@ -74,7 +78,7 @@ h3{
     font-family: 'Lobster', cursive;
 }
 #white{
-    margin-top: 22px;
+    margin-top: 30px;
     color: black;
 }
 /* #vids-containter{
