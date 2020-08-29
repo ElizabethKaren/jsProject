@@ -39,16 +39,23 @@ body{
 }
 
 .name-and-pic{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; 
     /* height: 100px; */
     text-align: center;
     justify-content: center;
-    height: 20vh;
+    /* height: 20vh; */
     /* width: 60vw; */
-    display: inline-block;
-    margin-left: 30vw;
+    /* display: inline-block; */
+    /* margin-left: 30vw; */
     /* border: 1px rgb(126, 124, 124);
     padding: 10px;
     border-style: solid; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 #cover-photo{
     width: 100%;
