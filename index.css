@@ -37,6 +37,10 @@ body{
     /* padding: 14px 16px; */
     text-decoration: none; 
 }
+hr {
+    border: none;
+    border-top: 1px dotted black;
+}
 
 .name-and-pic{
     display: flex;
