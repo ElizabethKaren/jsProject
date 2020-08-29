@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
             <div class="video">
                 <h3>Psychic Reader Game</h3>
-                    <img src="./horiscope.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <a href='https://psychicreading.netlify.app/' target="_blank"><img src="./horiscope.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
                     <br>
                     <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>
                     <a href='https://github.com/Liz00000000000/furtune_teller_game' target="_blank">React Code</a>
