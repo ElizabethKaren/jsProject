@@ -2,6 +2,6 @@
 
 <img src='./myWebsite.png' alt='me'>
 
-<p>Radio Buttons Direct the User to Blogs, Projects, Education, and Work Expereince</p>
+<h2>Radio Buttons Direct the User to Blogs, Projects, Education, and Work Expereince.</h2>
 
 <img src='./radio.png' alt='radio buttons' >
