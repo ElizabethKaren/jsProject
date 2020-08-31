@@ -4,4 +4,4 @@
 
 <p>Radio Buttons Direct the User to Blogs, Projects, Education, and Work Expereince</p>
 
-<img src='./work.png' alt='work' >
+<img src='./radio.png' alt='radio buttons' >
