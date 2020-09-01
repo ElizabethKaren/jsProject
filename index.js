@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function(){
             <h3>Flatiron Experience Board Game</h3>
                 <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br>
-                <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">Vanilla JavaScript Front End</a>
+                <a href='https://github.com/chefvivica/flatiron_school_experience_front_end-' target="_blank">Vanilla JavaScript Front End</a>
                 <a href='https://github.com/chefvivica/flatiron_school_experience-api' target="_blank">Rails Back End</a>
             </div>
 
