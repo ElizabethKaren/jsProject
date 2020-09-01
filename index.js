@@ -75,58 +75,59 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>`
 
     const myVids = `<div class="video">
-            <h3>Flatsy Shops</h3>
-                <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <br>
-                <a href='https://github.com/Liz00000000000/etsy_clone_front_end' target="_blank">React Front End</a>
-                <a href='https://github.com/Liz00000000000/etsy_clone_back_end' target="_blank">Rails Back End</a>
-            </div>
+    <h3>Flatsy Shops</h3>
+        <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/Liz00000000000/etsy_clone_front_end' target="_blank">React Front End</a>
+        <a href='https://github.com/Liz00000000000/etsy_clone_back_end' target="_blank">Rails Back End</a>
+    </div>
+    
+    <div class="video">
+        <h3>So Not Facebook</h3>
+        <iframe src="https://www.youtube.com/embed/euEMBbeC62U" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
+        <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
+    </div>
 
-            <div class="video">
-            <h3>So Not Facebook</h3>
-                <iframe src="https://www.youtube.com/embed/euEMBbeC62U" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <br>
-                <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
-                <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
-            </div>
+    <div class="video">
+        <h3>Psychic Reader Game</h3>
+        <a href='https://psychicreading.netlify.app/' target="_blank"><img src="https://i.pinimg.com/564x/83/d5/f5/83d5f5a151ed5c3dce3e2d4b5af3a93f.jpg" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+        <br>
+        <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>
+        <a href='https://github.com/Liz00000000000/furtune_teller_game' target="_blank">React Code</a>
+    </div>
 
-            <div class="video">
-                <h3>Psychic Reader Game</h3>
-                <a href='https://psychicreading.netlify.app/' target="_blank"><img src="https://i.pinimg.com/564x/83/d5/f5/83d5f5a151ed5c3dce3e2d4b5af3a93f.jpg" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
-                <br>
-                <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>
-                <a href='https://github.com/Liz00000000000/furtune_teller_game' target="_blank">React Code</a>
-            </div>
+    <div class="video">
+    <h3>Flatiron Experience Board Game</h3>
+        <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/chefvivica/flatiron_school_experience_front_end-' target="_blank">Vanilla JavaScript Front End</a>
+        <a href='https://github.com/chefvivica/flatiron_school_experience-api' target="_blank">Rails Back End</a>
+    </div>
 
-            <div class="video">
-            <h3>Flatiron Experience Board Game</h3>
-                <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <br>
-                <a href='https://github.com/chefvivica/flatiron_school_experience_front_end-' target="_blank">Vanilla JavaScript Front End</a>
-                <a href='https://github.com/chefvivica/flatiron_school_experience-api' target="_blank">Rails Back End</a>
-            </div>
+    
+    <div class="video">
+        <h3>Recipe Share</h3>
+        <iframe src="https://www.youtube.com/embed/GsoBDg6MdR8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/Liz00000000000/instaRecipe' target="_black">Rails Full Stack</a>
+    </div>
+    
+    <div class="video">
+        <h3>Yoga Midnight: Portfolio Site</h3>
+        <a href='https://yogamidnight.netlify.app/' target="_blank"><img src="./Images/Matt.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+        <br>
+        <a href='https://yogamidnight.netlify.app/' target="_black">Website</a>
+        <a href='https://github.com/Liz00000000000/yogamidnight' target="_blank">React Code</a>
+    </div>
 
-            <div class="video">
-            <h3>Covid Quest: A Game Inspired By Quaratine</h3>
-                <iframe src="https://www.youtube.com/embed/-kHoIrHSYFo" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <br>
-                <a href='https://github.com/Liz00000000000/' target="_black">Ruby Terminal</a>
-            </div>
-
-            <div class="video">
-            <h3>Yoga Midnight: Portfolio Site</h3>
-            <a href='https://yogamidnight.netlify.app/' target="_blank"><img src="./Matt.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
-                <br>
-                <a href='https://yogamidnight.netlify.app/' target="_black">Website</a>
-                <a href='https://github.com/Liz00000000000/yogamidnight' target="_blank">React Code</a>
-            </div>
-
-            <div class="video">
-            <h3>Recipe Share</h3>
-                <iframe src="https://www.youtube.com/embed/GsoBDg6MdR8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <br>
-                <a href='https://github.com/Liz00000000000/instaRecipe' target="_black">Rails Full Stack</a>
-            </div>`
+    <div class="video">
+    <h3>Covid Quest: A Game Inspired By Quaratine</h3>
+        <iframe src="https://www.youtube.com/embed/-kHoIrHSYFo" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/Liz00000000000/' target="_black">Ruby Terminal</a>
+    </div>`
 
     const myBlogs = `<div class="blog">
             <h3 class='title'>How I passed every code challenge on the first try!</h3>
