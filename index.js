@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function(){
-    const pic = document.querySelector('img')
     const container = document.querySelector('.main-container')
     const blogInput = document.querySelector('#blogs')
     const demoInput = document.querySelector('#video')
@@ -149,19 +148,5 @@ document.addEventListener('DOMContentLoaded', function(){
             <h3 class='title'>Case Statements in Ruby</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://miro.medium.com/max/1136/1*5hxbr6t7FcAJLgejLlK7LA.png" width="560" height="315"></a>
         </div>`
-
-    // pic.addEventListener('click',(e) =>{
-    //     const sushiPic = 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/45991353_10212866996014483_4082254848777519104_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=f85f-B4BxqUAX9SB6av&_nc_ht=scontent-lga3-1.xx&oh=3d37e0c28b307209b7e7be8b97127423&oe=5F46A524'
-    //     const smilePic = 'https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/28161461_10211066462202263_862115397948204181_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=h--IM4VGYWgAX-FGbOu&_nc_ht=scontent-lga3-1.xx&oh=040f8c06ca02d1ac188f74d6a4501787&oe=5F457F86'
-    //     const lookingAwayPic = 'https://scontent-lga3-2.xx.fbcdn.net/v/t1.0-9/25353758_10210594687288185_5462990705802440023_n.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=umcwfiZLu7YAX_suTA3&_nc_ht=scontent-lga3-2.xx&oh=ff462aacce8430d6b0898e7f8b4e7203&oe=5F4746DB'
-    //     if (e.target.src == smilePic){
-    //         e.target.src = sushiPic
-    //     } else if (e.target.src == sushiPic) {
-    //         e.target.src = lookingAwayPic
-    //     } else {
-    //         e.target.src = smilePic
-    //     }
-    // } )
-
 
  })

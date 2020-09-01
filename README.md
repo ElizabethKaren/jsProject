@@ -1,7 +1,7 @@
 <h2>Porfolio Website</h2>
 
-<img src='./myWebsite.png' alt='me'>
+<img src='.Images/myWebsite.png' alt='me'>
 
 <h2>Radio Buttons Direct the User to Blogs, Projects, Education, and Work Expereince.</h2>
 
-<img src='./radio.png' alt='radio buttons' >
+<img src='.Images/radio.png' alt='radio buttons' >
