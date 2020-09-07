@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>`
 
     const myBlogs = `<div class="blog">
-        <h3 class="title">The Future of Wearable Tech: Is Fitbit only the beginning?</h3>
+        <h3 class="title">The Future of Wearable Tech</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="560" height="315"></a>
         </div>
     
