@@ -5,39 +5,43 @@ document.addEventListener('DOMContentLoaded', function(){
     const edInput = document.querySelector('#ed')
     const workInput = document.querySelector('#work')
     const algoInput = document.querySelector('#algos')
+    const buttons = document.querySelector('#buttons')
 
-    document.addEventListener('change', (e) => {
-        e.target.checked = true
-        if (e.target.value === 'videos'){
+    demoInput.style.color = 'gray'
+
+
+    buttons.addEventListener('click', (e) => {
+        e.target.style.color = 'gray';
+        if (e.target.id === 'video'){
             container.innerHTML = myVids
-            blogInput.checked = false
-            edInput.checked = false
-            workInput.checked = false
-            algoInput.checked = false
-        } else if (e.target.value === 'blogs'){
+            blogInput.style.color = '#000000';
+            edInput.style.color = '#000000';
+            workInput.style.color = '#000000';
+            algoInput.style.color = '#000000';
+        } else if (e.target.id === 'blogs'){
             container.innerHTML = myBlogs
-            edInput.checked = false
-            workInput.checked = false
-            demoInput.checked = false
-            algoInput.checked = false
-        } else if (e.target.value === 'education'){
+            edInput.style.color = '#000000';
+            workInput.style.color = '#000000';
+            demoInput.style.color = '#000000';
+            algoInput.style.color = '#000000';
+        } else if (e.target.id === 'ed'){
             container.innerHTML = education
-            blogInput.checked = false
-            workInput.checked = false
-            demoInput.checked = false
-            algoInput.checked = false
-        } else if (e.target.value === 'work'){
+            blogInput.style.color = '#000000';
+            workInput.style.color = '#000000';
+            demoInput.style.color = '#000000';
+            algoInput.style.color = '#000000';
+        } else if (e.target.id === 'work'){
             container.innerHTML = work
-            blogInput.checked = false
-            edInput.checked = false
-            demoInput.checked = false
-            algoInput.checked = false
-        } else if (e.target.value == 'algos'){
+            blogInput.style.color = '#000000';
+            edInput.style.color = '#000000';
+            demoInput.style.color = '#000000';
+            algoInput.style.color = '#000000';
+        } else if (e.target.id == 'algos'){
             container.innerHTML = algoVids
-            blogInput.checked = false
-            edInput.checked = false
-            demoInput.checked = false
-            workInput.checked = false
+            blogInput.style.color = '#000000';
+            edInput.style.color = '#000000';
+            demoInput.style.color = '#000000';
+            workInput.style.color = '#000000';
         }
     })
 
