@@ -133,6 +133,11 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>`
 
     const myBlogs = `<div class="blog">
+        <h3 class="title">The Island Algorithm Explained</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/the-island-algorithm-explained-60ab6bef682b?sk=9a5350c50a98eb9e7426918b5dfe0227" target="_blank"><img src="https://media1.tenor.com/images/6e8bef91a303b37079ae1c5ed2d0057c/tenor.gif?itemid=5702034" alt='island'  width="560" height="315"/></a>
+        </div>
+
+        <div class='blog'>
         <h3 class="title">The Future of Wearable Tech</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="560" height="315"></a>
         </div>
