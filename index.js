@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class="blog">
-        <h3 class="title">Linked Lists Explained</h3>
+        <h3 class="title">Linked List vs Array</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://miro.medium.com/max/1400/1*8cuob3zHwwxCN-qBUspJKQ.jpeg" alt='list'  width="560" height="315"/></a>
         </div>
 
