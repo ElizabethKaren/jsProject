@@ -4,11 +4,9 @@ document.addEventListener('DOMContentLoaded', function(){
     const demoInput = document.querySelector('#video')
     const edInput = document.querySelector('#ed')
     const workInput = document.querySelector('#work')
-    const algoInput = document.querySelector('#algos')
     const buttons = document.querySelector('#buttons')
 
     demoInput.style.color = 'gray'
-
 
     buttons.addEventListener('click', (e) => {
         e.target.style.color = 'gray';
@@ -17,31 +15,21 @@ document.addEventListener('DOMContentLoaded', function(){
             blogInput.style.color = '#000000';
             edInput.style.color = '#000000';
             workInput.style.color = '#000000';
-            algoInput.style.color = '#000000';
         } else if (e.target.id === 'blogs'){
             container.innerHTML = myBlogs
             edInput.style.color = '#000000';
             workInput.style.color = '#000000';
             demoInput.style.color = '#000000';
-            algoInput.style.color = '#000000';
         } else if (e.target.id === 'ed'){
             container.innerHTML = education
             blogInput.style.color = '#000000';
             workInput.style.color = '#000000';
             demoInput.style.color = '#000000';
-            algoInput.style.color = '#000000';
         } else if (e.target.id === 'work'){
             container.innerHTML = work
             blogInput.style.color = '#000000';
             edInput.style.color = '#000000';
             demoInput.style.color = '#000000';
-            algoInput.style.color = '#000000';
-        } else if (e.target.id == 'algos'){
-            container.innerHTML = algoVids
-            blogInput.style.color = '#000000';
-            edInput.style.color = '#000000';
-            demoInput.style.color = '#000000';
-            workInput.style.color = '#000000';
         }
     })
 
@@ -142,6 +130,11 @@ document.addEventListener('DOMContentLoaded', function(){
         <div class="blog">
         <h3 class="title">Linked Lists Explained</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://media1.giphy.com/media/2yvMb9LKQBaBW8wYGF/giphy.gif" alt='list'  width="560" height="315"/></a>
+        </div>
+
+        <div class='blog'>
+        <h3 class="title">Fibonacci Sequence Explained</h3>
+       <a href="https://medium.com/@elizabeth.michael.karen/the-fibonacci-sequence-explained-f1ba0191dcf0?sk=5cc2e3d3ce0a9bc9f930059f0257eccb" target="_blank"><img src='https://49.media.tumblr.com/tumblr_m8fvvcmL1l1rchtzko1_500.gif' alt='fib' width="560" height="315"/></a>
         </div>
 
         <div class='blog'>

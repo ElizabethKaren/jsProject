@@ -8,6 +8,8 @@
     flex-direction: column; 
     text-align: center;
     text-decoration: none; 
+    margin-left: 20px;
+    margin-right: 20px;
 }
 body{
     font-size: 25px;
