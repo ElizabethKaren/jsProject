@@ -13,6 +13,7 @@
 }
 body{
     font-size: 25px;
+    font-family: 'Lobster Two', cursive;
 }
 .main-container{
     display: flex;
@@ -46,43 +47,28 @@ hr {
     background-image: url('./favhob.png');
 }
 #header{
-    font-family: 'Lobster Two', cursive;
     color: black;
     font-size: 30px;
     text-shadow: 2px 2px rgba(171, 171, 238, 0.747);
 }
-.text{
-    font-family: 'Lobster Two', cursive;
-}
 .video{
     padding: 10px 10px 10px 10px;
-    font-family: 'Lobster Two', cursive;
 }
 #pic{
     width: 10%;
     height: 60%;
 }
-#selector{
-    font-family: 'Lobster Two', cursive;
-}
 .blog{
-    font-family: 'Lobster Two', cursive;
     padding: 10px 10px 10px 10px;
-}
-.title{
-    font-family: 'Lobster Two', cursive;
 }
 #words{
     margin: 10px;
     padding-left: 10px;
     padding-right: 10px;
 }
-
 h3{
-    font-family: 'Lobster Two', cursive;
     text-shadow: 2px 2px rgba(171, 171, 238, 0.747);
 }
 .footer{
     text-align: center;
-    font-family: 'Lobster Two', cursive;
 }

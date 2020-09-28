@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function(){
         }
     })
 
-    const work = `<div id='words' class='text'>
+    const work = `<div id='words'>
             <h3>Full Stack Junior Developer at Socha</h3>
             <p>Implemented WebSocket's and Bootsraps on Ruby on Rails app</p>
             <p>Created PostgreSQL database</p>
@@ -54,12 +54,12 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>`
 
     const education = `<div id='words'>
-            <h3 class="text">Tufts University/School of the Museum of Fine Arts</h3>
-            <p class="text">Bachelors Degree in Art History and Fine Arts</p>
-            <h3 class='text'>Flatiron School</h3>
-            <p class="text">Full Stack Web Development, Ruby on Rails and JavaScript program</p>
-            <h3 class='text'>Fashion Institute of Technology</h3>
-            <p class="text">Fashion Merchandising Buisness</p>
+            <h3>Tufts University/School of the Museum of Fine Arts</h3>
+            <p>Bachelors Degree in Art History and Fine Arts</p>
+            <h3>Flatiron School</h3>
+            <p>Full Stack Web Development, Ruby on Rails and JavaScript program</p>
+            <h3>Fashion Institute of Technology</h3>
+            <p>Fashion Merchandising Buisness</p>
         </div>`
 
     const myVids = `<div class="video">
@@ -117,43 +117,43 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>`
 
     const myBlogs = `<div class="blog">
-        <h3 class="title">The Island Algorithm Explained</h3>
+        <h3>The Island Algorithm Explained</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-island-algorithm-explained-60ab6bef682b?sk=9a5350c50a98eb9e7426918b5dfe0227" target="_blank"><img src="https://media1.tenor.com/images/6e8bef91a303b37079ae1c5ed2d0057c/tenor.gif?itemid=5702034" alt='island'  width="560" height="315"/></a>
         </div>
 
         <div class="blog">
-        <h3 class="title">Linked Lists Explained</h3>
+        <h3>Linked Lists Explained</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://media1.giphy.com/media/2yvMb9LKQBaBW8wYGF/giphy.gif" alt='list'  width="560" height="315"/></a>
         </div>
 
         <div class='blog'>
-        <h3 class="title">Fibonacci Sequence Explained</h3>
+        <h3>Fibonacci Sequence Explained</h3>
        <a href="https://medium.com/@elizabeth.michael.karen/the-fibonacci-sequence-explained-f1ba0191dcf0?sk=5cc2e3d3ce0a9bc9f930059f0257eccb" target="_blank"><img src='https://49.media.tumblr.com/tumblr_m8fvvcmL1l1rchtzko1_500.gif' alt='fib' width="560" height="315"/></a>
         </div>
 
         <div class='blog'>
-        <h3 class="title">The Future of Wearable Tech</h3>
+        <h3>The Future of Wearable Tech</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="560" height="315"></a>
         </div>
     
         <div class="blog">
-            <h3 class='title'>How I passed every code challenge on the first try!</h3>
+            <h3>How I passed every code challenge on the first try!</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="560" height="315"></a>
         </div>
         <div class="blog">
-            <h3 class='title'>Binary Search Explained</h3> 
+            <h3>Binary Search Explained</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/binary-search-explained-b3c33d679dec' target="_blank"><img src="https://images.ctfassets.net/j0hmm71qn9y2/6z0UVKYPcE1BNY04iKxUEy/06b098484e982633b7f15969da85fa1c/Typeform-Blog-Gifs-Inline05.gif?w=640" width="560" height="315"></a>
         </div>
         <div class="blog">
-            <h3 class='title'>Replacing While loops</h3>
+            <h3>Replacing While loops</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/replacing-while-loops-in-ruby-909994622723' target="_blank"><img src="https://media1.giphy.com/media/tKIt3zenrB7CgdRlI2/giphy.gif" width="560" height="315"></a>
         </div>
         <div class="blog">
-            <h3 class='title'>Splice, Slice, and Split</h3> 
+            <h3>Splice, Slice, and Split</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/splice-slice-and-split-in-javascript-acbda1a09e75' target="_blank"><img src="https://www.pajiba.com/assets_c/2018/09/sliceposter%202%20%281%29-thumb-700x618-201648.jpg" width="560" height="315"></a>
         </div>
         <div class="blog">
-            <h3 class='title'>Case Statements in Ruby</h3> 
+            <h3>Case Statements in Ruby</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://miro.medium.com/max/1136/1*5hxbr6t7FcAJLgejLlK7LA.png" width="560" height="315"></a>
         </div>`
 
