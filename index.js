@@ -56,10 +56,8 @@ document.addEventListener('DOMContentLoaded', function(){
     const education = `<div id='words'>
             <h3 class="text">Tufts University/School of the Museum of Fine Arts</h3>
             <p class="text">Bachelors Degree in Art History and Fine Arts</p>
-
             <h3 class='text'>Flatiron School</h3>
             <p class="text">Full Stack Web Development, Ruby on Rails and JavaScript program</p>
-
             <h3 class='text'>Fashion Institute of Technology</h3>
             <p class="text">Fashion Merchandising Buisness</p>
         </div>`
@@ -96,7 +94,6 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://github.com/chefvivica/flatiron_school_experience-api' target="_blank">Rails Back End</a>
     </div>
 
-    
     <div class="video">
         <h3>Recipe Share</h3>
         <iframe src="https://www.youtube.com/embed/GsoBDg6MdR8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
