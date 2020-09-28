@@ -39,7 +39,8 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const work = `<div id='words' class='text'>
             <h3>Full Stack Junior Developer at Socha</h3>
-            <p>Developed Rails back end and created PostgreSQL database using web sockets</p>
+            <p>Implemented WebSocket's and Bootsraps on Ruby on Rails app</p>
+            <p>Created PostgreSQL database</p>
             <h3>Production and Product Development Manager at Gina Group</h3>
             <p>Worked with buyers and factory owners in China and India to provide a high-quality product at the lowest price possible</p>
             <h3>Production Coordinator at Amazon Apparel</h3>
