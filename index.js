@@ -33,10 +33,6 @@ document.addEventListener('DOMContentLoaded', function(){
         }
     })
 
-    const algoVids = `<div class='text'>
-        <a href='https://github.com/Liz00000000000/interview_practice_questions' target="_blank">Interview Questions and Solutions Git Hub in Python</a>
-        </div>`
-
     const work = `<div id='words' class='text'>
             <h3>Full Stack Junior Developer at Socha</h3>
             <p>Implemented WebSocket's and Bootsraps on Ruby on Rails app</p>
