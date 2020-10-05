@@ -79,6 +79,14 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>
 
     <div class="video">
+        <h3>90s Style Messenger</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pPGcKVKeSeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/Liz00000000000/aol_front_end' target="_blank">React Front End</a>
+        <a href='https://github.com/Liz00000000000/aol_backend' target="_blank">Rails Back End</a>
+    </div>
+
+    <div class="video">
         <h3>Psychic Reader Game</h3>
         <a href='https://psychicreading.netlify.app/' target="_blank"><img src="https://i.pinimg.com/564x/83/d5/f5/83d5f5a151ed5c3dce3e2d4b5af3a93f.jpg" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
         <br>
@@ -122,8 +130,18 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class="blog">
+        <h3>How to implement WebSockets</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/how-to-implement-websockets-50923f7251cf" target="_blank"><img src="https://thumbs.gfycat.com/AccurateUncommonCrow-size_restricted.gif" alt='hackers'  width="560" height="315"/></a>
+        </div>
+
+        <div class="blog">
         <h3>Linked Lists Explained</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://media1.giphy.com/media/2yvMb9LKQBaBW8wYGF/giphy.gif" alt='list'  width="560" height="315"/></a>
+        </div>
+
+        <div class="blog">
+        <h3>The Significance of Hex Codes</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/the-significance-of-hex-codes-252ef28ad8a7?source=friends_link&sk=3b4cd1331b491829d3880b914e06a745" target="_blank"><img src="https://miro.medium.com/max/2000/1*FgNQuA_jSkLmql0WxNxGSA.gif" alt='hex'  width="560" height="315"/></a>
         </div>
 
         <div class='blog'>
