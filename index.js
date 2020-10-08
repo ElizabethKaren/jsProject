@@ -34,6 +34,8 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 
     const work = `<div id='words'>
+            <h3>Full Stack Junior Developer at Set Patrol</h3>
+            <p>Building new website with custom landing pages and UX improvements, and backend development.</p>
             <h3>Full Stack Junior Developer at Socha</h3>
             <p>Implemented WebSocket's and Bootsraps on Ruby on Rails app</p>
             <p>Created PostgreSQL database</p>
