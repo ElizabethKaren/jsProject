@@ -155,6 +155,11 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>The Future of Wearable Tech</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="560" height="315"></a>
         </div>
+
+        <div class='blog'>
+            <h3>Bubble Sort Explained</h3>
+            <a href='https://medium.com/@elizabeth.michael.karen/bubble-sort-explained-692630956b2b' target="_blank"><img src='https://media1.tenor.com/images/c0e2fc335af3285e6baa0a629fa3f05c/tenor.gif?itemid=5449916' alt='bubbles' width="560" height="315"/></a>
+        </div>
     
         <div class="blog">
             <h3>How I passed every code challenge on the first try!</h3>
