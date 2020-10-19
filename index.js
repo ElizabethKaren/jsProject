@@ -160,15 +160,20 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>How to Fetch (bonus Post and Patch)</h3>
         <a href='https://elizabeth-michael-karen.medium.com/how-to-fetch-bonus-post-and-patch-254ac64f7451' target='_blank'><img src="https://media4.giphy.com/media/5G98t8QjqBLK8/200.gif" alt="fetch" width="560" height="315"/></a>
         </div>
-    
-        <div class="blog">
-            <h3>How I passed every code challenge on the first try!</h3>
-            <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="560" height="315"></a>
-        </div>
-        
+
         <div class="blog">
             <h3>Binary Search Explained</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/binary-search-explained-b3c33d679dec' target="_blank"><img src="https://images.ctfassets.net/j0hmm71qn9y2/6z0UVKYPcE1BNY04iKxUEy/06b098484e982633b7f15969da85fa1c/Typeform-Blog-Gifs-Inline05.gif?w=640" width="560" height="315"></a>
+        </div>
+
+        <div class="blog">
+            <h3>Case Statements in Ruby</h3> 
+            <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://media2.giphy.com/media/KnOVBRqItfXGg/giphy.gif" width="560" height="315"></a>
+        </div>
+
+        <div class="blog">
+        <h3>How I passed every code challenge on the first try!</h3>
+        <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="560" height="315"></a>
         </div>
 
         <div class='blog'>
@@ -183,10 +188,6 @@ document.addEventListener('DOMContentLoaded', function(){
         <div class="blog">
             <h3>Splice, Slice, and Split</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/splice-slice-and-split-in-javascript-acbda1a09e75' target="_blank"><img src="https://www.pajiba.com/assets_c/2018/09/sliceposter%202%20%281%29-thumb-700x618-201648.jpg" width="560" height="315"></a>
-        </div>
-        <div class="blog">
-            <h3>Case Statements in Ruby</h3> 
-            <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://miro.medium.com/max/1136/1*5hxbr6t7FcAJLgejLlK7LA.png" width="560" height="315"></a>
         </div>`
 
  })
