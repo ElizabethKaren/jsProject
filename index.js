@@ -160,6 +160,11 @@ document.addEventListener('DOMContentLoaded', function(){
             <h3>Bubble Sort Explained</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/bubble-sort-explained-692630956b2b' target="_blank"><img src='https://media1.tenor.com/images/c0e2fc335af3285e6baa0a629fa3f05c/tenor.gif?itemid=5449916' alt='bubbles' width="560" height="315"/></a>
         </div>
+
+        <div class='blog'>
+        <h3>Fetch with Post and Patch</h3>
+        <a href='https://elizabeth-michael-karen.medium.com/how-to-fetch-bonus-post-and-patch-254ac64f7451' target='_blank'><img src="https://media4.giphy.com/media/5G98t8QjqBLK8/200.gif" alt="fetch" width="560" height="315"/></a>
+        </div>
     
         <div class="blog">
             <h3>How I passed every code challenge on the first try!</h3>
