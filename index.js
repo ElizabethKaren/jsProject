@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class='blog'>
-        <h3>Fetch with Post and Patch</h3>
+        <h3>How to Fetch (bonus Post and Patch)</h3>
         <a href='https://elizabeth-michael-karen.medium.com/how-to-fetch-bonus-post-and-patch-254ac64f7451' target='_blank'><img src="https://media4.giphy.com/media/5G98t8QjqBLK8/200.gif" alt="fetch" width="560" height="315"/></a>
         </div>
     
