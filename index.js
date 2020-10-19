@@ -147,11 +147,6 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class='blog'>
-        <h3>Fibonacci Sequence Explained</h3>
-       <a href="https://medium.com/@elizabeth.michael.karen/the-fibonacci-sequence-explained-f1ba0191dcf0?sk=5cc2e3d3ce0a9bc9f930059f0257eccb" target="_blank"><img src='https://49.media.tumblr.com/tumblr_m8fvvcmL1l1rchtzko1_500.gif' alt='fib' width="560" height="315"/></a>
-        </div>
-
-        <div class='blog'>
             <h3>Bubble Sort Explained</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/bubble-sort-explained-692630956b2b' target="_blank"><img src='https://media1.tenor.com/images/c0e2fc335af3285e6baa0a629fa3f05c/tenor.gif?itemid=5449916' alt='bubbles' width="560" height="315"/></a>
         </div>
@@ -164,6 +159,11 @@ document.addEventListener('DOMContentLoaded', function(){
         <div class="blog">
             <h3>Binary Search Explained</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/binary-search-explained-b3c33d679dec' target="_blank"><img src="https://images.ctfassets.net/j0hmm71qn9y2/6z0UVKYPcE1BNY04iKxUEy/06b098484e982633b7f15969da85fa1c/Typeform-Blog-Gifs-Inline05.gif?w=640" width="560" height="315"></a>
+        </div>
+
+        <div class='blog'>
+        <h3>Fibonacci Sequence Explained</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/the-fibonacci-sequence-explained-f1ba0191dcf0?sk=5cc2e3d3ce0a9bc9f930059f0257eccb" target="_blank"><img src='https://49.media.tumblr.com/tumblr_m8fvvcmL1l1rchtzko1_500.gif' alt='fib' width="560" height="315"/></a>
         </div>
 
         <div class="blog">
