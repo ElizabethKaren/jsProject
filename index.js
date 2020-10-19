@@ -152,11 +152,6 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class='blog'>
-        <h3>The Future of Wearable Tech</h3>
-        <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="560" height="315"></a>
-        </div>
-
-        <div class='blog'>
             <h3>Bubble Sort Explained</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/bubble-sort-explained-692630956b2b' target="_blank"><img src='https://media1.tenor.com/images/c0e2fc335af3285e6baa0a629fa3f05c/tenor.gif?itemid=5449916' alt='bubbles' width="560" height="315"/></a>
         </div>
@@ -170,10 +165,17 @@ document.addEventListener('DOMContentLoaded', function(){
             <h3>How I passed every code challenge on the first try!</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="560" height="315"></a>
         </div>
+        
         <div class="blog">
             <h3>Binary Search Explained</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/binary-search-explained-b3c33d679dec' target="_blank"><img src="https://images.ctfassets.net/j0hmm71qn9y2/6z0UVKYPcE1BNY04iKxUEy/06b098484e982633b7f15969da85fa1c/Typeform-Blog-Gifs-Inline05.gif?w=640" width="560" height="315"></a>
         </div>
+
+        <div class='blog'>
+        <h3>The Future of Wearable Tech</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="560" height="315"></a>
+        </div>
+
         <div class="blog">
             <h3>Replacing While loops</h3>
             <a href='https://medium.com/@elizabeth.michael.karen/replacing-while-loops-in-ruby-909994622723' target="_blank"><img src="https://media1.giphy.com/media/tKIt3zenrB7CgdRlI2/giphy.gif" width="560" height="315"></a>
