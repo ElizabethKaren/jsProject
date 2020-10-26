@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class="blog">
-        <h3></h3>
+        <h3>Spiral Traverse a 2D Array</h3>
         <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="NA" alt="traverse_array"/></a>
         </div>
 
