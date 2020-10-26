@@ -142,6 +142,11 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class="blog">
+        <h3></h3>
+        <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="NA" alt="traverse_array"/></a>
+        </div>
+
+        <div class="blog">
         <h3>The Significance of Hex Codes</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-significance-of-hex-codes-252ef28ad8a7?source=friends_link&sk=3b4cd1331b491829d3880b914e06a745" target="_blank"><img src="https://miro.medium.com/max/2000/1*FgNQuA_jSkLmql0WxNxGSA.gif" alt='hex'  width="560" height="315"/></a>
         </div>
