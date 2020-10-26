@@ -132,6 +132,11 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class="blog">
+        <h3>Spiral Traverse a 2D Array</h3>
+        <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f4fd342-0aee-43dd-ba32-503a2d20abf1/dduf2o4-13575044-158a-4b10-8619-10979982d77a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGY0ZmQzNDItMGFlZS00M2RkLWJhMzItNTAzYTJkMjBhYmYxXC9kZHVmMm80LTEzNTc1MDQ0LTE1OGEtNGIxMC04NjE5LTEwOTc5OTgyZDc3YS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.chz6hQ7nL0to-h5FYB1Ysxdu_JeBzphDK6zVqQaEBFA" alt="traverse_array" width="560" height="315"/></a>
+        </div>
+
+        <div class="blog">
         <h3>How to implement WebSockets</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/how-to-implement-websockets-50923f7251cf" target="_blank"><img src="https://thumbs.gfycat.com/AccurateUncommonCrow-size_restricted.gif" alt='hackers'  width="560" height="315"/></a>
         </div>
@@ -139,11 +144,6 @@ document.addEventListener('DOMContentLoaded', function(){
         <div class="blog">
         <h3>Linked Lists Explained</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://media1.giphy.com/media/2yvMb9LKQBaBW8wYGF/giphy.gif" alt='list'  width="560" height="315"/></a>
-        </div>
-
-        <div class="blog">
-        <h3>Spiral Traverse a 2D Array</h3>
-        <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f4fd342-0aee-43dd-ba32-503a2d20abf1/dduf2o4-13575044-158a-4b10-8619-10979982d77a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGY0ZmQzNDItMGFlZS00M2RkLWJhMzItNTAzYTJkMjBhYmYxXC9kZHVmMm80LTEzNTc1MDQ0LTE1OGEtNGIxMC04NjE5LTEwOTc5OTgyZDc3YS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.chz6hQ7nL0to-h5FYB1Ysxdu_JeBzphDK6zVqQaEBFA" alt="traverse_array" width="560" height="315"/></a>
         </div>
 
         <div class="blog">
