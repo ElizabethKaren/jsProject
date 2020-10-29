@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const workInput = document.querySelector('#work')
     const buttons = document.querySelector('#buttons')
 
-    demoInput.style.color = 'gray'
+    blogInput.style.color = 'gray'
 
     buttons.addEventListener('click', (e) => {
         e.target.style.color = 'gray';
@@ -70,6 +70,14 @@ document.addEventListener('DOMContentLoaded', function(){
         <br>
         <a href='https://github.com/Liz00000000000/etsy_clone_front_end' target="_blank">React Front End</a>
         <a href='https://github.com/Liz00000000000/etsy_clone_back_end' target="_blank">Rails Back End</a>
+    </div>
+
+    <div class="video">
+        <h3>Trivia Game</h3>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+        <br>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
+        <a href='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
     </div>
     
     <div class="video">
