@@ -73,21 +73,29 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>
 
     <div class="video">
-        <h3>Trivia Game</h3>
-        <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+    <h3>Clueless Trivia</h3>
+        <a href='https://cluelesstrivia.netlify.app/' target="_blank"><img src="https://i.gifer.com/Ag6K.gif" width="560" height="315" /></a>
         <br>
-        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
-        <a href='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
+        <a href='https://cluelesstrivia.netlify.app/' target="_blank">Demo</a>
+        <a href='https://github.com/Liz00000000000/Trivia/tree/cluelessbranch' target="_blank">React Code</a>
     </div>
     
     <div class="video">
-        <h3>So Not Facebook</h3>
-        <iframe src="https://www.youtube.com/embed/euEMBbeC62U" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <br>
-        <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
-        <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
+    <h3>So Not Facebook</h3>
+    <iframe src="https://www.youtube.com/embed/euEMBbeC62U" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
+    <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
     </div>
-
+    
+    <div class="video">
+        <h3>Powerball Trivia Game</h3>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+        <br>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
+        <a hr
+        ef='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
+    </div>
     <div class="video">
         <h3>90s Style Messenger</h3>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/pPGcKVKeSeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
