@@ -187,6 +187,11 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://elizabeth-michael-karen.medium.com/how-to-fetch-bonus-post-and-patch-254ac64f7451' target='_blank'><img src="https://media4.giphy.com/media/5G98t8QjqBLK8/200.gif" alt="fetch" width="560" height="315"/></a>
         </div>
 
+        <div class='blog'>
+        <h3>React for Dummies</h3>
+        <a href='https://elizabeth-michael-karen.medium.com/react-for-dummies-40f62f1cb874' target='_blank'><img src='https://media3.giphy.com/media/l0HlIHAGwsQRwyeXK/giphy.gif' alt='teacher' width="560" height="315"></a>
+        </div>
+
         <div class="blog">
             <h3>Binary Search Explained</h3> 
             <a href='https://medium.com/@elizabeth.michael.karen/binary-search-explained-b3c33d679dec' target="_blank"><img src="https://images.ctfassets.net/j0hmm71qn9y2/6z0UVKYPcE1BNY04iKxUEy/06b098484e982633b7f15969da85fa1c/Typeform-Blog-Gifs-Inline05.gif?w=640" width="560" height="315"></a>
