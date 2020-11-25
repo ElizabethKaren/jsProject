@@ -1,6 +1,7 @@
 #buttons{
     text-align: center;
     text-decoration: none; 
+    margin-top: -25px;
 }
 #seq{
     padding: 2px 2px 2px 2px;
@@ -51,6 +52,7 @@ hr {
 }
 #cover-photo{
     width: 100%;
+    height: 24vh;
 }
 #nav{
     display: flex;
