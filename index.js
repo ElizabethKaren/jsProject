@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const workInput = document.querySelector('#work')
     const buttons = document.querySelector('#buttons')
 
-    blogInput.style.color = 'gray'
+    demoInput.style.color = 'gray'
 
     buttons.addEventListener('click', (e) => {
         e.target.style.color = 'gray';
