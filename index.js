@@ -142,9 +142,14 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://github.com/Liz00000000000/' target="_black">Ruby Terminal</a>
     </div>`
 
-    const myBlogs = `<div class="blog">
+    const myBlogs = `<div class='blog'>
+        <h3>Build a Chinese Zodiac Algorithm (Bonus Western Zodiac)</h3>
+        <a href='https://elizabeth-michael-karen.medium.com/how-to-build-a-chinese-zodiac-algorithm-bonus-western-zodiac-eef47a984690'><img src='https://miro.medium.com/max/1400/1*Rm-XuNnpUWXudl9vT-hJWQ.jpeg' alt='dragon' width="560" height="315"/></a>
+        </div>
+
+        <div class="blog">
         <h3>How To Build A Password Generator</h3>
-        <a href="https://elizabeth-michael-karen.medium.com/how-to-build-a-random-password-generator-c049e28909a8" target="_blank"><img src="https://qph.fs.quoracdn.net/main-qimg-1a9dcce2c509f1488442050b81b895ac" alt='password'  width="560" height="315"/></a>
+        <a href="https://elizabeth-michael-karen.medium.com/how-to-build-a-random-password-generator-c049e28909a8" target="_blank"><img src="https://qph.fs.quoracdn.net/main-qimg-1a9dcce2c509f1488442050b81b895ac" alt='password' width="560" height="315"/></a>
         </div>
     
         <div class="blog">
