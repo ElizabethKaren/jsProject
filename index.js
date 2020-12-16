@@ -177,6 +177,11 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://elizabeth-michael-karen.medium.com/max-profits-algorithm-7bd33fc8a866' target="_blank"><img src='https://miro.medium.com/max/996/1*c58wd6ajTtIppGtQ4g9Fvg.gif' alt='stocks' width="560" height="315"></a>
         </div>
 
+        <div class='blog'>
+        <h3>Events and Event Delegation</h3>
+        <a href='https://elizabeth-michael-karen.medium.com/events-and-event-delegation-in-vanilla-javascript-eb29c3de35da' target="_blank"><img src='https://33.media.tumblr.com/0bee0b36c54a81bdd397005d45976bc1/tumblr_nv8w5wIcDv1s207suo1_500.gif' alt='event' width="560" height="315"/></a>
+        </div>
+
         <div class="blog">
         <h3>How To Build Fun Trivia Game</h3>
         <a href="https://elizabeth-michael-karen.medium.com/how-to-build-a-fun-trivia-app-in-react-bec656669b1c" target="_blank"><img src="https://media4.giphy.com/media/l378pEUbmKVUvD4oE/giphy.gif" alt='wheel' width="560" height="315"/></a>
