@@ -144,7 +144,12 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const myBlogs = `<div class='blog'>
         <h3>Build a Chinese Zodiac Algorithm (Bonus Western Zodiac)</h3>
-        <a href='https://elizabeth-michael-karen.medium.com/how-to-build-a-chinese-zodiac-algorithm-bonus-western-zodiac-eef47a984690'><img src='https://miro.medium.com/max/1400/1*Rm-XuNnpUWXudl9vT-hJWQ.jpeg' alt='dragon' width="560" height="315"/></a>
+        <a href='https://elizabeth-michael-karen.medium.com/how-to-build-a-chinese-zodiac-algorithm-bonus-western-zodiac-eef47a984690' target="_blank"><img src='https://miro.medium.com/max/1400/1*Rm-XuNnpUWXudl9vT-hJWQ.jpeg' alt='dragon' width="560" height="315"/></a>
+        </div>
+
+        <div class='blog'>
+        <h3>Local Storage and How to Use it</h3>
+        <a href='https://elizabeth-michael-karen.medium.com/local-storage-in-react-bccbfaa73e3e' target="_blank"><img src="https://24.media.tumblr.com/9c1ecef994ff253afe7d503f88c31b4f/tumblr_muz9fvUr9f1s9ss8ko1_500.gif" alt='storage' width="560" height="315"/></a>
         </div>
 
         <div class="blog">
