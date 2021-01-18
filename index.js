@@ -73,6 +73,14 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>
 
     <div class="video">
+    <h3>Movie Awards</h3>
+        <a href='https://northamericanmovieawareds.netlify.app/' target="_blank"><img src="./Images/movie.png" width="560" height="315" /></a>
+        <br>
+        <a href='https://northamericanmovieawareds.netlify.app/' target="_blank">Demo</a>
+        <a href='https://github.com/Liz00000000000/movieAwards' target="_blank">React Code</a>
+    </div>
+
+    <div class="video">
     <h3>Clueless Trivia</h3>
         <a href='https://cluelesstrivia.netlify.app/' target="_blank"><img src="https://i.gifer.com/Ag6K.gif" width="560" height="315" /></a>
         <br>
