@@ -43,10 +43,12 @@ hr {
 }
 p{
     color: #AED9E0;
-    font-size: 20px;
+    font-size: 22px;
     text-shadow: 1px 1px #5E6472;
 }
-
+#img{
+    width: 100vw;
+}
 .name-and-pic{
     display: flex;
     flex-wrap: wrap;
@@ -65,7 +67,7 @@ p{
 #nav{
     display: flex;
     flex-direction: left;
-    background-image: url('./favhob.png');
+    /* background-image: url('./favhob.png'); */
 }
 #header{
     color: #FFA69E;
