@@ -4,8 +4,8 @@
     margin-top: -10px;
     color: #FFA69E;
     text-shadow: 1px 1px #5E6472;
-    margin-left: 25vw;
-    margin-right: 25vw;
+    margin-left: 30vw;
+    margin-right: 30vw;
     background-color: #F0EAD6;
     outline: 1px solid #5E6472;
     border-radius: 10px solid #5E6472;
@@ -137,13 +137,13 @@ a:visited {
    text-align: center;
    color: #FFA69E;
    text-shadow: 1px 1px #B8F2E6;
-   margin: 10px;
-   margin-left: 25vw;
-   margin-right: 25vw;
+   /* margin: 10px; */
+   margin-left: 30vw;
+   margin-right: 30vw;
    background-color: #F0EAD6;
    outline: 1px solid #5E6472;
    border-radius: 10px solid #5E6472;
-   width: 50%;
+   /* width: 50%; */
 }
 .footer a:hover{
     color: #5E6472;
