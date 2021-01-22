@@ -216,6 +216,11 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class='blog'>
+            <h3>Create a Search Bar</h3>
+            <a href='https://elizabeth-michael-karen.medium.com/building-a-search-function-f493cfd6f2db' target="_blank"><img src='https://media1.giphy.com/media/xTiTnwLNe6sSsySBNu/source.gif' alt='search' width="500" height="255"/></a>
+        </div> 
+
+        <div class='blog'>
             <h3>The Joys of Faker</h3>
             <a href='https://elizabeth-michael-karen.medium.com/how-to-use-faker-in-homemade-rails-api-3c049a11ddbf' target='_blank'><img src="https://miro.medium.com/max/800/1*yWP8pXyxLBMn3MebYjUV7Q.gif" alt="faker" width="500" height="255" /></a>
         </div>
