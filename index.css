@@ -89,6 +89,9 @@ p{
     margin: 5px;
     border-radius: 10px solid #5E6472;
 }
+.video a:hover{
+    color: #5E6472
+}
 #pic{
     width: 10%;
     height: 60%;
@@ -111,6 +114,8 @@ p{
 h3{
     color: #FFA69E;
     text-shadow: 1px 1px #5E6472;
+    margin-block-start: 0;
+    margin-block-end: 1em;
 }
 a{
     color: #FFA69E;
@@ -119,6 +124,7 @@ a{
     text-decoration: none;
 }
 a:hover {
+    color: #5E6472;
     text-shadow: none;
 }
 a:visited {
