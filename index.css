@@ -24,6 +24,9 @@
     text-decoration: none; 
     margin-left: 20px;
     margin-right: 20px;
+    color: #5E6472;
+    font-size: 21px;
+    text-shadow: 1px 1px #B8F2E6;
 }
 body{
     font-size: 23px;
@@ -42,9 +45,9 @@ hr {
     border-top: 1px dotted #5E6472;
 }
 p{
-    color: #AED9E0;
-    font-size: 22px;
-    text-shadow: 1px 1px #5E6472;
+    color: #5E6472;
+    font-size: 21px;
+    text-shadow: 1px 1px #B8F2E6;
 }
 #img{
     width: 100vw;
@@ -100,8 +103,8 @@ a{
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
-    text-shadow: 1px 1px #5E6472;
+    color: #5E6472;
+    text-shadow: none;
 }
 a:visited {
     color: #B8F2E6;
@@ -113,4 +116,16 @@ a:visited {
    text-align: center;
    color: #FFA69E;
    text-shadow: 1px 1px #B8F2E6;
+}
+#blogs:hover{
+    text-shadow: none;
+}
+#ed:hover{
+    text-shadow: none;
+}
+#video:hover{
+    text-shadow: none;
+}
+#work:hover{
+    text-shadow: none;
 }

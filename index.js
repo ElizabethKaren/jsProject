@@ -6,10 +6,10 @@ document.addEventListener('DOMContentLoaded', function(){
     const workInput = document.querySelector('#work')
     const buttons = document.querySelector('#buttons')
 
-    demoInput.style.color = '#5E6472'
+    demoInput.style.color = '#B8F2E6'
 
     buttons.addEventListener('click', (e) => {
-        e.target.style.color = '#5E6472';
+        e.target.style.color = '#B8F2E6';
         if (e.target.id === 'video'){
             container.innerHTML = myVids
             blogInput.style.color = '#FFA69E';
