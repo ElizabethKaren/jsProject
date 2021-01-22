@@ -4,6 +4,11 @@
     margin-top: -10px;
     color: #FFA69E;
     text-shadow: 1px 1px #5E6472;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    background-color: #F0EAD6;
+    outline: 1px solid #5E6472;
+    border-radius: 10px solid #5E6472;
 }
 #seq{
     padding: 2px 2px 2px 2px;
@@ -33,7 +38,7 @@ body{
     font-family: 'Lobster Two', cursive;
     background-color: white;
     /* background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg'); */
-    /* background-image: url('https://jessicawellinginteriors.com/wp-content/uploads/2020/04/indoor_hanging_garden-1228-1.jpg'); */
+    background-image: url('https://jessicawellinginteriors.com/wp-content/uploads/2020/04/indoor_hanging_garden-1228-1.jpg'); */
 }
 .main-container{
     display: flex;
@@ -79,6 +84,10 @@ p{
 }
 .video{
     padding: 15px;
+    background-color: #F0EAD6;
+    outline: 1px solid #5E6472;
+    margin: 5px;
+    border-radius: 10px solid #5E6472;
 }
 #pic{
     width: 10%;
@@ -86,11 +95,18 @@ p{
 }
 .blog{
     padding: 15px;
+    background-color: #F0EAD6;
+    outline: 1px solid #5E6472;
+    margin: 5px;
+    border-radius: 10px solid #5E6472;
 }
 #words{
     margin: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    background-color: #F0EAD6;
+    outline: 1px solid #5E6472;
+    border-radius: 10px solid #5E6472;
 }
 h3{
     color: #FFA69E;
@@ -111,10 +127,17 @@ a:visited {
     text-decoration: none;
 }
 .footer{
-    font-size: 23px;
+   font-size: 23px;
    text-align: center;
    color: #FFA69E;
    text-shadow: 1px 1px #B8F2E6;
+   margin: 10px;
+   margin-left: 25vw;
+   margin-right: 25vw;
+   background-color: #F0EAD6;
+   outline: 1px solid #5E6472;
+   border-radius: 10px solid #5E6472;
+   width: 50%;
 }
 #blogs:hover{
     text-shadow: none;
