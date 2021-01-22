@@ -6,30 +6,30 @@ document.addEventListener('DOMContentLoaded', function(){
     const workInput = document.querySelector('#work')
     const buttons = document.querySelector('#buttons')
 
-    demoInput.style.color = 'gray'
+    demoInput.style.color = '#5E6472'
 
     buttons.addEventListener('click', (e) => {
-        e.target.style.color = 'gray';
+        e.target.style.color = '#5E6472';
         if (e.target.id === 'video'){
             container.innerHTML = myVids
-            blogInput.style.color = '#000000';
-            edInput.style.color = '#000000';
-            workInput.style.color = '#000000';
+            blogInput.style.color = '#FFA69E';
+            edInput.style.color = '#FFA69E';
+            workInput.style.color = '#FFA69E';
         } else if (e.target.id === 'blogs'){
             container.innerHTML = myBlogs
-            edInput.style.color = '#000000';
-            workInput.style.color = '#000000';
-            demoInput.style.color = '#000000';
+            edInput.style.color = '#FFA69E';
+            workInput.style.color = '#FFA69E';
+            demoInput.style.color = '#FFA69E';
         } else if (e.target.id === 'ed'){
             container.innerHTML = education
-            blogInput.style.color = '#000000';
-            workInput.style.color = '#000000';
-            demoInput.style.color = '#000000';
+            blogInput.style.color = '#FFA69E';
+            workInput.style.color = '#FFA69E';
+            demoInput.style.color = '#FFA69E';
         } else if (e.target.id === 'work'){
             container.innerHTML = work
-            blogInput.style.color = '#000000';
-            edInput.style.color = '#000000';
-            demoInput.style.color = '#000000';
+            blogInput.style.color = '#FFA69E';
+            edInput.style.color = '#FFA69E';
+            demoInput.style.color = '#FFA69E';
         }
     })
 
