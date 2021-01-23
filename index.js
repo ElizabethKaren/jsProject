@@ -117,14 +117,6 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>
     
     <div class="video">
-        <h3>Powerball Trivia Game</h3>
-        <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
-        <br>
-        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
-        <a hr
-        ef='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
-    </div>
-    <div class="video">
         <h3>90s Style Messenger</h3>
         <iframe width="500" height="255" src="https://www.youtube.com/embed/pPGcKVKeSeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
@@ -138,6 +130,14 @@ document.addEventListener('DOMContentLoaded', function(){
         <br>
         <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>
         <a href='https://github.com/Liz00000000000/furtune_teller_game' target="_blank">React Code</a>
+    </div>
+
+    <div class="video">
+        <h3>Powerball Trivia Game</h3>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+        <br>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
+        <a href='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
     </div>
 
     <div class="video">
