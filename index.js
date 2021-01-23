@@ -56,12 +56,14 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>`
 
     const education = `<div id='words'>
+            <br/>
             <h3>Tufts University/School of the Museum of Fine Arts</h3>
             <p>Bachelors Degree in Art History and Fine Arts</p>
             <h3>Flatiron School</h3>
             <p>Full Stack Web Development, Ruby on Rails and JavaScript program</p>
             <h3>Fashion Institute of Technology</h3>
             <p>Fashion Merchandising Buisness</p>
+            <br/>
         </div>`
 
     const myVids = `<div class="video">
