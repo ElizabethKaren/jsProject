@@ -36,9 +36,9 @@
 body{
     font-size: 23px;
     font-family: 'Lobster Two', cursive;
-    background-color: white;
-    /* background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg'); */
-    background-image: url('https://jessicawellinginteriors.com/wp-content/uploads/2020/04/indoor_hanging_garden-1228-1.jpg'); 
+    background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg');
+    /* alternate background */
+    /* background-image: url('https://jessicawellinginteriors.com/wp-content/uploads/2020/04/indoor_hanging_garden-1228-1.jpg');  */
 }
 .main-container{
     display: flex;
