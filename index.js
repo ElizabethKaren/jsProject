@@ -115,14 +115,6 @@ document.addEventListener('DOMContentLoaded', function(){
     <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
     <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
     </div>
-    
-    <div class="video">
-        <h3>90s Style Messenger</h3>
-        <iframe width="500" height="255" src="https://www.youtube.com/embed/pPGcKVKeSeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <br>
-        <a href='https://github.com/Liz00000000000/aol_front_end' target="_blank">React Front End</a>
-        <a href='https://github.com/Liz00000000000/aol_backend' target="_blank">Rails Back End</a>
-    </div>
 
     <div class="video">
         <h3>Psychic Reader Game</h3>
@@ -132,12 +124,27 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://github.com/Liz00000000000/furtune_teller_game' target="_blank">React Code</a>
     </div>
 
+    <div class='video'>
+        <h3>API with RSpec and Custom Routes</h3>
+        <a href='https://github.com/Liz00000000000/arist_project' target="_blank"><img src='./Images/api.png' alt='api' width='500' height='255'/></a>
+        <br>
+        <a href='https://github.com/Liz00000000000/arist_project' target="_blank">Rails Back End</a>
+    </div>
+
     <div class="video">
         <h3>Powerball Trivia Game</h3>
         <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
         <br>
         <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
         <a href='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
+    </div>
+
+    <div class="video">
+        <h3>90s Style Messenger</h3>
+        <iframe width="500" height="255" src="https://www.youtube.com/embed/pPGcKVKeSeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <a href='https://github.com/Liz00000000000/aol_front_end' target="_blank">React Front End</a>
+        <a href='https://github.com/Liz00000000000/aol_backend' target="_blank">Rails Back End</a>
     </div>
 
     <div class="video">
