@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function(){
     <h3>Flatsy Shops</h3>
         <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
-        <a href='https://github.com/Liz00000000000/etsy_clone_front_end' target="_blank">React Front End</a>
+        <a href='https://github.com/Liz00000000000/etsy_clone_front_end' target="_blank">React Front End</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/etsy_clone_back_end' target="_blank">Rails Back End</a>
     </div>
 
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function(){
     <h3>Movie Awards</h3>
         <a href='https://northamericanmovieawareds.netlify.app/' target="_blank"><img src="./Images/movie.png" width="500" height="255" /></a>
         <br>
-        <a href='https://northamericanmovieawareds.netlify.app/' target="_blank">Demo</a>
+        <a href='https://northamericanmovieawareds.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/movieAwards' target="_blank">React Code</a>
     </div>
 
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function(){
     <h3>Clueless Trivia</h3>
         <a href='https://cluelesstrivia.netlify.app/' target="_blank"><img src="https://i.gifer.com/Ag6K.gif" width="500" height="255" /></a>
         <br>
-        <a href='https://cluelesstrivia.netlify.app/' target="_blank">Demo</a>
+        <a href='https://cluelesstrivia.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/Trivia/tree/cluelessbranch' target="_blank">React Code</a>
     </div>
     
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function(){
     <h3>So Not Facebook</h3>
     <iframe src="https://www.youtube.com/embed/euEMBbeC62U" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
-    <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>
+    <a href='https://github.com/Liz00000000000/facebookclone_front_end' target="_blank">React Front End</a>&nbsp&nbsp
     <a href='https://github.com/Liz00000000000/facebookclone_real_backend' target="_blank">Rails Back End</a>
     </div>
 
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>Psychic Reader Game</h3>
         <a href='https://psychicreading.netlify.app/' target="_blank"><img src="https://i.pinimg.com/564x/83/d5/f5/83d5f5a151ed5c3dce3e2d4b5af3a93f.jpg" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
         <br>
-        <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>
+        <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/furtune_teller_game' target="_blank">React Code</a>
     </div>
 
@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>Powerball Trivia Game</h3>
         <a href='https://tenquestiontrivia.netlify.app/' target="_blank"><img src="./Images/Trivia.png" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
         <br>
-        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>
+        <a href='https://tenquestiontrivia.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/Trivia' target="_blank">React Code</a>
     </div>
 
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>90s Style Messenger</h3>
         <iframe width="500" height="255" src="https://www.youtube.com/embed/pPGcKVKeSeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
-        <a href='https://github.com/Liz00000000000/aol_front_end' target="_blank">React Front End</a>
+        <a href='https://github.com/Liz00000000000/aol_front_end' target="_blank">React Front End</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/aol_backend' target="_blank">Rails Back End</a>
     </div>
 
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function(){
     <h3>Flatiron Experience Board Game</h3>
         <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
-        <a href='https://github.com/chefvivica/flatiron_school_experience_front_end-' target="_blank">Vanilla JavaScript Front End</a>
+        <a href='https://github.com/chefvivica/flatiron_school_experience_front_end-' target="_blank">Vanilla JavaScript Front End</a>&nbsp&nbsp
         <a href='https://github.com/chefvivica/flatiron_school_experience-api' target="_blank">Rails Back End</a>
     </div>
 
@@ -166,7 +166,7 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>Yoga Midnight: Portfolio Site</h3>
         <a href='https://yogamidnight.netlify.app/' target="_blank"><img src="./Images/Matt.png" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
         <br>
-        <a href='https://yogamidnight.netlify.app/' target="_black">Website</a>
+        <a href='https://yogamidnight.netlify.app/' target="_black">Website</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/yogamidnight' target="_blank">React Code</a>
     </div>
 
