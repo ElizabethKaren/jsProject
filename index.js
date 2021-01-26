@@ -126,9 +126,9 @@ document.addEventListener('DOMContentLoaded', function(){
 
     <div class='video'>
         <h3>API with RSpec and Custom Routes</h3>
-        <a href='https://github.com/Liz00000000000/arist_project' target="_blank"><img src='./Images/api.png' alt='api' width='500' height='255'/></a>
+        <a href='https://github.com/Liz00000000000/artis_project' target="_blank"><img src='./Images/api.png' alt='api' width='500' height='255'/></a>
         <br>
-        <a href='https://github.com/Liz00000000000/arist_project' target="_blank">Rails Back End</a>
+        <a href='https://github.com/Liz00000000000/artis_project' target="_blank">Rails Back End</a>
     </div>
 
     <div class="video">
