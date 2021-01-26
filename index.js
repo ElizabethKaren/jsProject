@@ -148,6 +148,14 @@ document.addEventListener('DOMContentLoaded', function(){
     </div>
 
     <div class="video">
+    <h3>Password Generator</h3>
+        <a href="https://givemeapassword.netlify.app/" target="_blank"><img src="./Images/passwordGen.png" alt='password' width="500" height="255" /></a>
+        <br>
+        <a href='https://givemeapassword.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
+        <a href='https://github.com/Liz00000000000/passwordgenerator' target="_blank">React Code</a>
+    </div>
+
+    <div class="video">
     <h3>Flatiron Experience Board Game</h3>
         <iframe src="https://www.youtube.com/embed/DdPL-dB-62A" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
