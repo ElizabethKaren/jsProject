@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     <div class="video">
     <h3>Password Generator</h3>
-        <a href="https://givemeapassword.netlify.app/" target="_blank"><img src="./Images/passwordGen.png" alt='password' width="500" height="255" /></a>
+        <a href="https://givemeapassword.netlify.app/" target="_blank"><img src="./Images/password.png" alt='password' width="500" height="255" /></a>
         <br>
         <a href='https://givemeapassword.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
         <a href='https://github.com/Liz00000000000/passwordgenerator' target="_blank">React Code</a>
