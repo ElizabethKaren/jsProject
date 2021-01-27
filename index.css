@@ -9,6 +9,10 @@
     background-color: #F0EAD6;
     outline: 1px solid #5E6472;
     border-radius: 10px solid #5E6472;
+    opacity: 0.9;
+}
+#buttons:hover{
+    opacity: 1;
 }
 #seq{
     padding: 2px 2px 2px 2px;
@@ -57,21 +61,6 @@ p{
 #img{
     width: 100vw;
 }
-.name-and-pic{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column; 
-    text-align: center;
-    justify-content: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-#cover-photo{
-    width: 90%;
-    height: 20vh;
-}
 #nav{
     display: flex;
     flex-direction: left;
@@ -89,9 +78,13 @@ p{
     margin: 6px;
     border-radius: 10px solid #5E6472;
     align-items: center;
+    opacity: 0.9;
+}
+.video:hover{
+    opacity: 1;
 }
 .video a:hover{
-    color: #5E6472
+    color: #5E6472;
 }
 #pic{
     width: 10%;
@@ -103,6 +96,10 @@ p{
     outline: 1px solid #5E6472;
     margin: 6px;
     border-radius: 10px solid #5E6472;
+    opacity: 0.9;
+}
+.blog:hover{
+    opacity: 1;
 }
 #words{
     margin: 10px;
@@ -111,6 +108,10 @@ p{
     background-color: #F0EAD6;
     outline: 1px solid #5E6472;
     border-radius: 10px solid #5E6472;
+    opacity: 0.9;
+}
+#words:hover{
+    opacity: 1;
 }
 h3{
     color: #FFA69E;
@@ -142,6 +143,10 @@ a:visited {
    background-color: #F0EAD6;
    outline: 1px solid #5E6472;
    border-radius: 10px solid #5E6472;
+   opacity: 0.9;
+}
+.footer:hover{
+    opacity: 1;
 }
 .footer a:hover{
     color: #5E6472;
