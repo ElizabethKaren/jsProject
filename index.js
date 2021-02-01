@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const myVids = `<div class='video'>
     <h3>Set Patrol</h3>
-        <a href='https://set-patrol.herokuapp.com/' target="_blank"><img src='./Images/Search.png' alt='set patrol' width="500" height="255" /> </a>
+        <a href='https://set-patrol.herokuapp.com/' target="_blank"><img src='./Images/cameraSearch.png' alt='set patrol' width="500" height="255" /> </a>
         <br>
         <a href='https://set-patrol.herokuapp.com/' target="_blank">Website</a>&nbsp&nbsp
         <a href="https://github.com/Chase-42/SetPatrol" target="_blank">React Code</a>
