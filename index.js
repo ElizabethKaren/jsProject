@@ -193,7 +193,16 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://github.com/Liz00000000000/' target="_black">Ruby Terminal</a>
     </div>`
 
-    const myBlogs = `<div class='blog'>
+    const myBlogs = `<div class="blog">
+        <h3>The Island Algorithm Explained</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/the-island-algorithm-explained-60ab6bef682b?sk=9a5350c50a98eb9e7426918b5dfe0227" target="_blank"><img src="https://media1.tenor.com/images/6e8bef91a303b37079ae1c5ed2d0057c/tenor.gif?itemid=5702034" alt='island'  width="500" height="255"/></a>
+        </div>
+
+        <div class="blog">
+        <h3>Spiral Traverse a 2D Array</h3>
+        <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f4fd342-0aee-43dd-ba32-503a2d20abf1/dduf2o4-13575044-158a-4b10-8619-10979982d77a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGY0ZmQzNDItMGFlZS00M2RkLWJhMzItNTAzYTJkMjBhYmYxXC9kZHVmMm80LTEzNTc1MDQ0LTE1OGEtNGIxMC04NjE5LTEwOTc5OTgyZDc3YS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.chz6hQ7nL0to-h5FYB1Ysxdu_JeBzphDK6zVqQaEBFA" alt="traverse_array" width="500" height="255"/></a>
+        </div>
+        <div class='blog'>
         <h3>Chinese + Western Zodiac Algorithm</h3>
         <a href='https://elizabeth-michael-karen.medium.com/how-to-build-a-chinese-zodiac-algorithm-bonus-western-zodiac-eef47a984690' target="_blank"><img src='https://miro.medium.com/max/1400/1*Rm-XuNnpUWXudl9vT-hJWQ.jpeg' alt='dragon' width="500" height="255"/></a>
         </div>
@@ -206,16 +215,6 @@ document.addEventListener('DOMContentLoaded', function(){
         <div class="blog">
         <h3>Build A Password Generator</h3>
         <a href="https://elizabeth-michael-karen.medium.com/how-to-build-a-random-password-generator-c049e28909a8" target="_blank"><img src="https://qph.fs.quoracdn.net/main-qimg-1a9dcce2c509f1488442050b81b895ac" alt='password' width="500" height="255"/></a>
-        </div>
-    
-        <div class="blog">
-        <h3>The Island Algorithm Explained</h3>
-        <a href="https://medium.com/@elizabeth.michael.karen/the-island-algorithm-explained-60ab6bef682b?sk=9a5350c50a98eb9e7426918b5dfe0227" target="_blank"><img src="https://media1.tenor.com/images/6e8bef91a303b37079ae1c5ed2d0057c/tenor.gif?itemid=5702034" alt='island'  width="500" height="255"/></a>
-        </div>
-
-        <div class="blog">
-        <h3>Spiral Traverse a 2D Array</h3>
-        <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f4fd342-0aee-43dd-ba32-503a2d20abf1/dduf2o4-13575044-158a-4b10-8619-10979982d77a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGY0ZmQzNDItMGFlZS00M2RkLWJhMzItNTAzYTJkMjBhYmYxXC9kZHVmMm80LTEzNTc1MDQ0LTE1OGEtNGIxMC04NjE5LTEwOTc5OTgyZDc3YS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.chz6hQ7nL0to-h5FYB1Ysxdu_JeBzphDK6zVqQaEBFA" alt="traverse_array" width="500" height="255"/></a>
         </div>
 
         <div class="blog">
