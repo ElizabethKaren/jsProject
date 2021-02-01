@@ -38,6 +38,9 @@
     text-shadow: 1px 1px #B8F2E6;
 }
 body{
+    /* wall background  */
+    /* background-image: url('https://i.pinimg.com/originals/a3/e5/2d/a3e52d0e3bb9e05275f8ccaca6b07037.png'); */
+    /* background-repeat: space; */
     font-size: 23px;
     font-family: 'Lobster Two', cursive;
     background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg');
@@ -112,6 +115,9 @@ p{
 }
 #words:hover{
     opacity: 1;
+}
+#linkInWords{
+    font-size: x-large;
 }
 h3{
     color: #FFA69E;

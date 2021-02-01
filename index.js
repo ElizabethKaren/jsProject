@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 
     const work = `<div id='words'>
-            <h3>Fullstack Junior Developer at Set Patrol</h3>
+            <h3>Fullstack Junior Developer at <a id='linkInWords' href='https://set-patrol.herokuapp.com/' target='_blank'>Set Patrol</a></h3>
             <p>Building new website with custom landing pages and UX improvements, and backend development.</p>
             <h3>Fullstack Junior Developer at Socha</h3>
             <p>Implemented WebSocket's and Bootsraps on Ruby on Rails app</p>
@@ -84,7 +84,15 @@ document.addEventListener('DOMContentLoaded', function(){
             <br/>
         </div>`
 
-    const myVids = `<div class="video">
+    const myVids = `<div class='video'>
+    <h3>Set Patrol</h3>
+        <a href='https://set-patrol.herokuapp.com/' target="_blank"><img src='./Images/Search.png' alt='set patrol' width="500" height="255" /> </a>
+        <br>
+        <a href='https://set-patrol.herokuapp.com/' target="_blank">Website</a>&nbsp&nbsp
+        <a href="https://github.com/Chase-42/SetPatrol" target="_blank">React Code</a>
+    </div>
+    
+    <div class="video">
     <h3>Flatsy Shops</h3>
         <iframe src="https://www.youtube.com/embed/tzsZxJwcoKI" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
