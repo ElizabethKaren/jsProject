@@ -21,30 +21,37 @@ document.addEventListener('DOMContentLoaded', function(){
     changeFavicon("https://i.pinimg.com/originals/84/0a/50/840a50493a532c3bc3c512486fc31ac7.png")
 
 
-    demoInput.style.color = '#5E6472'
+    demoInput.style.textDecoration = 'none'
 
     buttons.addEventListener('click', (e) => {
-        e.target.style.color = '#5E6472';
+        e.target.style.textDecoration = 'none' 
         if (e.target.id === 'video'){
             container.innerHTML = myVids
-            blogInput.style.color = '#FFA69E';
-            edInput.style.color = '#FFA69E';
-            workInput.style.color = '#FFA69E';
+            blogInput.style.textDecoration = 'line-through'
+            edInput.style.textDecoration = 'line-through'
+            workInput.style.textDecoration = 'line-through'
         } else if (e.target.id === 'blogs'){
             container.innerHTML = myBlogs
-            edInput.style.color = '#FFA69E';
-            workInput.style.color = '#FFA69E';
-            demoInput.style.color = '#FFA69E';
+            edInput.style.textDecoration = 'line-through'
+            workInput.style.textDecoration = 'line-through'
+    
+            demoInput.style.textDecoration = 'line-through'
+    
         } else if (e.target.id === 'ed'){
             container.innerHTML = education
-            blogInput.style.color = '#FFA69E';
-            workInput.style.color = '#FFA69E';
-            demoInput.style.color = '#FFA69E';
+            blogInput.style.textDecoration = 'line-through'
+    
+            workInput.style.textDecoration = 'line-through'
+    
+            demoInput.style.textDecoration = 'line-through'
+    
         } else if (e.target.id === 'work'){
             container.innerHTML = work
-            blogInput.style.color = '#FFA69E';
-            edInput.style.color = '#FFA69E';
-            demoInput.style.color = '#FFA69E';
+            blogInput.style.textDecoration = 'line-through'
+    
+            edInput.style.textDecoration = 'line-through'
+            demoInput.style.textDecoration = 'line-through'
+    
         }
     })
 

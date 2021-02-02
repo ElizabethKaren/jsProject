@@ -2,17 +2,22 @@
     text-align: center;
     text-decoration: none; 
     margin-top: -10px;
-    color: #FFA69E;
-    text-shadow: 1px 1px #5E6472;
+    color: #f77f67;
+    text-shadow: 2px 2px #F8EDEB;
     margin-left: 30vw;
     margin-right: 30vw;
-    background-color: #F0EAD6;
-    outline: 1px solid #5E6472;
-    border-radius: 10px solid #5E6472;
+    background-color: #fcd7b7;
+    outline: 2px solid #f77f67;
+    border-radius: 10px solid #FFB5A7;
+    padding: 4px;
+    width: fit-content;
     opacity: 0.9;
 }
 #buttons:hover{
     opacity: 1;
+}
+#buttons label{
+    text-decoration: line-through;
 }
 #seq{
     padding: 2px 2px 2px 2px;
@@ -33,17 +38,20 @@
     text-decoration: none; 
     margin-left: 20px;
     margin-right: 20px;
-    color: #5E6472;
+    color: #f77f67;
     font-size: 21px;
-    text-shadow: 1px 1px #B8F2E6;
+    text-shadow: 2px 2px #F9DCC4;
 }
 body{
     /* wall background  */
     /* background-image: url('https://i.pinimg.com/originals/a3/e5/2d/a3e52d0e3bb9e05275f8ccaca6b07037.png'); */
     /* background-repeat: space; */
-    font-size: 23px;
+    /* grass background */
+    /* background-image: url('https://previews.123rf.com/images/yakotina/yakotina1501/yakotina150100047/35368791-top-view-of-green-grass-with-small-white-flowers-background-texture.jpg'); */
+    background-image: url("https://www.slideteam.net/media/catalog/product/cache/960x720/g/r/green_indoor_plant_with_white_background_stock_photo_Slide01.jpg") ;
+    font-size: 25px;
     font-family: 'Lobster Two', cursive;
-    background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg');
+    /* background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg'); */
     /* alternate background */
     /* background-image: url('https://jessicawellinginteriors.com/wp-content/uploads/2020/04/indoor_hanging_garden-1228-1.jpg');  */
 }
@@ -54,12 +62,13 @@ body{
 }
 hr {
     border: none;
-    border-top: 1px dotted #5E6472;
+    border-top: 1px dotted #FCD5CE;
 }
 p{
-    color: #5E6472;
-    font-size: 21px;
-    text-shadow: 1px 1px #B8F2E6;
+    color: #f77f67;
+    font-size: 22px;
+    text-shadow: 2px 2px #F8EDEB;
+    font-size: x-large;
 }
 #img{
     width: 100vw;
@@ -70,102 +79,121 @@ p{
     /* background-image: url('./favhob.png'); */
 }
 #header{
-    color: #FFA69E;
+    color: #f77f67;
     font-size: 30px;
-    text-shadow: 1px 1px #5E6472;
+    text-shadow: 2px 2px #F9DCC4;
 }
 .video{
-    padding: 15px;
-    background-color: #F0EAD6;
-    outline: 1px solid #5E6472;
-    margin: 6px;
-    border-radius: 10px solid #5E6472;
+    color: #f77f67;
+    padding: 10px;
+    background-color: #fcd7b7;
+    outline: 2px solid #f77f67;
+    margin: 10px;
+    border-radius: 10px solid #FFB5A7;
     align-items: center;
+    text-align: center;
     opacity: 0.9;
 }
 .video:hover{
     opacity: 1;
 }
+.video a{
+    color: #f77f67;
+    text-shadow: 2px 2px #F9DCC4;
+}
 .video a:hover{
-    color: #5E6472;
+    color: #F9DCC4;
+    text-shadow: 2px 2px #f77f67;
 }
 #pic{
     width: 10%;
     height: 60%;
 }
 .blog{
-    padding: 15px;
-    background-color: #F0EAD6;
-    outline: 1px solid #5E6472;
-    margin: 6px;
-    border-radius: 10px solid #5E6472;
+    padding: 10px;
+    background-color: #fcd7b7;
+    outline: 2px solid #fa927d;
+    margin: 10px;
+    border-radius: 10px solid #FFB5A7;
     opacity: 0.9;
+    align-items: center;
+    text-align: center;
 }
 .blog:hover{
     opacity: 1;
 }
 #words{
+    background-color: #fcd7b7;
+    outline: 2px solid #fa927d;
     margin: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    background-color: #F0EAD6;
-    outline: 1px solid #5E6472;
-    border-radius: 10px solid #5E6472;
+    border-radius: 10px solid #FEC89A;
     opacity: 0.9;
 }
 #words:hover{
     opacity: 1;
 }
 #linkInWords{
-    font-size: x-large;
+    font-size: xx-large;
+    color: #f77f67;
+    text-shadow: 3px 3px #F8EDEB;
+}
+#linkInWords:hover{
+    color: #F8EDEB;
+    text-shadow: 2px 2px #fa927d;
 }
 h3{
-    color: #FFA69E;
-    text-shadow: 1px 1px #5E6472;
+    color: #f77f67;
+    text-shadow: 3px 3px #F8EDEB;
     margin-block-start: 0;
     margin-block-end: 1em;
 }
 a{
-    color: #FFA69E;
-    text-shadow: 1px 1px #5E6472;
-    font-size: 20px;
+    color: #f77f67;
+    text-shadow: 2px 2px #F8EDEB;
+    font-size: 22px;
     text-decoration: none;
 }
 a:hover {
-    color: #5E6472;
+    color: #fc7f66;
     text-shadow: none;
 }
 a:visited {
-    text-shadow: 1px 1px #5E6472;
+    text-shadow: 2px 2px #F8EDEB;
     text-decoration: none;
 }
 .footer{
-   font-size: 25px;
    text-align: center;
-   color: #FFA69E;
-   text-shadow: 1px 1px #B8F2E6;
+   background-color: #fcd7b7;
+   outline: 2px solid #fa927d;
+   text-shadow: 1px 1px #F8EDEB;
    margin-left: 30vw;
    margin-right: 30vw;
-   background-color: #F0EAD6;
-   outline: 1px solid #5E6472;
-   border-radius: 10px solid #5E6472;
+   border-radius: 10px solid #FEC89A;
    opacity: 0.9;
+   width: fit-content;
 }
 .footer:hover{
     opacity: 1;
 }
 .footer a:hover{
-    color: #5E6472;
+    color: #F8EDEB;
+    text-shadow: 2px 2px #fa927d;
 }
 #blogs:hover{
-    text-shadow: none;
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
 }
 #ed:hover{
-    text-shadow: none;
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
 }
 #video:hover{
-    text-shadow: none;
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
 }
 #work:hover{
-    text-shadow: none;
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
 }
