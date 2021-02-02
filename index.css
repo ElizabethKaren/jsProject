@@ -1,7 +1,7 @@
 #buttons{
     text-align: center;
     text-decoration: none; 
-    margin-top: -10px;
+    margin-top: 10px;
     color: #f77f67;
     text-shadow: 2px 2px #F8EDEB;
     margin-left: 30vw;
@@ -64,7 +64,7 @@ body{
 }
 hr {
     border: none;
-    border-top: 1px dotted #FCD5CE;
+    border-top: 1px dotted #1a681a;
 }
 p{
     color: #f77f67;
