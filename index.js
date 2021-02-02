@@ -34,24 +34,17 @@ document.addEventListener('DOMContentLoaded', function(){
             container.innerHTML = myBlogs
             edInput.style.textDecoration = 'line-through'
             workInput.style.textDecoration = 'line-through'
-    
             demoInput.style.textDecoration = 'line-through'
-    
         } else if (e.target.id === 'ed'){
             container.innerHTML = education
             blogInput.style.textDecoration = 'line-through'
-    
             workInput.style.textDecoration = 'line-through'
-    
             demoInput.style.textDecoration = 'line-through'
-    
         } else if (e.target.id === 'work'){
             container.innerHTML = work
             blogInput.style.textDecoration = 'line-through'
-    
             edInput.style.textDecoration = 'line-through'
             demoInput.style.textDecoration = 'line-through'
-    
         }
     })
 
