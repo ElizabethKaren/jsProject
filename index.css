@@ -48,7 +48,9 @@ body{
     /* background-repeat: space; */
     /* grass background */
     /* background-image: url('https://previews.123rf.com/images/yakotina/yakotina1501/yakotina150100047/35368791-top-view-of-green-grass-with-small-white-flowers-background-texture.jpg'); */
+    /*white backgorund w plant */
     background-image: url("https://www.slideteam.net/media/catalog/product/cache/960x720/g/r/green_indoor_plant_with_white_background_stock_photo_Slide01.jpg") ;
+    /* background-image: url('https://image.freepik.com/free-photo/tropical-plants-white-background_49683-3775.jpg'); */
     font-size: 25px;
     font-family: 'Lobster Two', cursive;
     /* background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg'); */
@@ -125,7 +127,10 @@ p{
 #words{
     background-color: #fcd7b7;
     outline: 2px solid #fa927d;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20vw;
+    margin-right: 20vw;
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 10px solid #FEC89A;
