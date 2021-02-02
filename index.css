@@ -87,6 +87,7 @@ p{
 }
 .video{
     color: #f77f67;
+    text-shadow: 2px 2px #F9DCC4;
     padding: 10px;
     background-color: #fcd7b7;
     outline: 2px solid #f77f67;
@@ -101,10 +102,10 @@ p{
 }
 .video a{
     color: #f77f67;
-    text-shadow: 2px 2px #F9DCC4;
+    text-shadow: 2px 2px #F8EDEB;
 }
 .video a:hover{
-    color: #F9DCC4;
+    color: #F8EDEB;
     text-shadow: 2px 2px #f77f67;
 }
 #pic{
@@ -162,6 +163,7 @@ a{
 }
 a:hover {
     color: #fc7f66;
+    text-shadow: 2px 2px #F9DCC4;
     text-shadow: none;
 }
 a:visited {
