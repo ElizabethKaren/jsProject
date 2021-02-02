@@ -279,21 +279,20 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href="https://medium.com/@elizabeth.michael.karen/the-fibonacci-sequence-explained-f1ba0191dcf0?sk=5cc2e3d3ce0a9bc9f930059f0257eccb" target="_blank"><img src='https://49.media.tumblr.com/tumblr_m8fvvcmL1l1rchtzko1_500.gif' alt='fib' width="500" height="255"/></a>
         </div>
 
-        <div class="blog">
-            <h3>Case Statements in Ruby</h3> 
-            <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://media2.giphy.com/media/KnOVBRqItfXGg/giphy.gif" width="500" height="255"></a>
-        </div>
-
-        <div class="blog">
-        <h3>How I passed every code challenge on the first try!</h3>
-        <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="500" height="255"></a>
-        </div>
-
         <div class='blog'>
         <h3>The Future of Wearable Tech</h3>
         <a href="https://medium.com/@elizabeth.michael.karen/the-future-of-wearable-tech-is-fitbit-only-the-beginning-9cc9fce0b31d?sk=f3caf8dbb8472daf9bbcb67968a35c7" target="_blank"><img src="https://i.gifer.com/U0b.gif" width="500" height="255"></a>
         </div>
 
+        <div class="blog">
+        <h3>How I passed every code challenge!</h3>
+        <a href='https://medium.com/@elizabeth.michael.karen/i-passed-every-coding-challenge-at-flatiron-school-on-the-first-try-heres-how-b11dfc19e6ad' target="_blank"><img src="https://miro.medium.com/max/1000/1*0uJ7juSeQnjsUC4UcmQJcA.gif" width="500" height="255"></a>
+        </div>
+
+        <div class="blog">
+        <h3>Case Statements in Ruby</h3> 
+        <a href='https://medium.com/@elizabeth.michael.karen/case-statements-in-ruby-1034cb9a4414' target="_blank"><img src="https://media2.giphy.com/media/KnOVBRqItfXGg/giphy.gif" width="500" height="255"></a>
+        </div>
 
         <div class='blog'>
         <h3>Hash Table Explained</h3>
