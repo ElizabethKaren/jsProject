@@ -199,6 +199,12 @@ document.addEventListener('DOMContentLoaded', function(){
         <h3>Spiral Traverse a 2D Array</h3>
         <a href="https://elizabeth-michael-karen.medium.com/spiral-traverse-a-2d-array-3bc83d775080" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f4fd342-0aee-43dd-ba32-503a2d20abf1/dduf2o4-13575044-158a-4b10-8619-10979982d77a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGY0ZmQzNDItMGFlZS00M2RkLWJhMzItNTAzYTJkMjBhYmYxXC9kZHVmMm80LTEzNTc1MDQ0LTE1OGEtNGIxMC04NjE5LTEwOTc5OTgyZDc3YS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.chz6hQ7nL0to-h5FYB1Ysxdu_JeBzphDK6zVqQaEBFA" alt="traverse_array" width="500" height="255"/></a>
         </div>
+
+        <div class="blog">
+        <h3>The Basics of Hooks</h3>
+        <a href="https://elizabeth-michael-karen.medium.com/the-basics-of-hooks-6186eedd2c9b" target="_blank"><img src="https://64.media.tumblr.com/d6a2755d7fd278fe74b11dba355ce10c/tumblr_pbq0wwr8221xndadho2_540.gifv" alt="traverse_array" width="500" height="255"/></a>
+        </div>
+
         <div class='blog'>
         <h3>Chinese + Western Zodiac Algorithm</h3>
         <a href='https://elizabeth-michael-karen.medium.com/how-to-build-a-chinese-zodiac-algorithm-bonus-western-zodiac-eef47a984690' target="_blank"><img src='https://miro.medium.com/max/1400/1*Rm-XuNnpUWXudl9vT-hJWQ.jpeg' alt='dragon' width="500" height="255"/></a>
