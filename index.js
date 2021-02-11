@@ -49,6 +49,8 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 
     const work = `<div id='words'>
+            <h3>Software Engineer at Mercury Analytics</h3>
+            <p>Develop quality software and web applications to analyize data</p>
             <h3>Fullstack Junior Developer at <a id='linkInWords' href='https://set-patrol.herokuapp.com/' target='_blank'>Set Patrol</a></h3>
             <p>Building new website with custom landing pages and UX improvements, and backend development.</p>
             <h3>Fullstack Junior Developer at Socha</h3>
@@ -134,6 +136,13 @@ document.addEventListener('DOMContentLoaded', function(){
         <a href='https://github.com/Liz00000000000/artis_project' target="_blank"><img src='./Images/api.png' alt='api' width='500' height='255'/></a>
         <br>
         <a href='https://github.com/Liz00000000000/artis_project' target="_blank">Rails Back End</a>
+    </div>
+
+    <div class='video'>
+        <h3>Grocery List Using Hooks and local Storage</h3>
+        <a href='https://github.com/Liz00000000000/hooksproject' target='_blank'><img src='./Images/grocery.png' alt='grocery' width='500' height='255'></a>
+        <br>
+        <a href='https://github.com/Liz00000000000/hooksproject' target='_blank'>React Code</a>
     </div>
 
     <div class="video">
