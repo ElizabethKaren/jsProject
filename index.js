@@ -230,13 +230,13 @@ document.addEventListener('DOMContentLoaded', function(){
         </div>
 
         <div class="blog">
-        <h3>How to implement WebSockets</h3>
-        <a href="https://medium.com/@elizabeth.michael.karen/how-to-implement-websockets-50923f7251cf" target="_blank"><img src="https://thumbs.gfycat.com/AccurateUncommonCrow-size_restricted.gif" alt='hackers'  width="500" height="255"/></a>
+        <h3>Linked Lists Explained</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://media1.giphy.com/media/2yvMb9LKQBaBW8wYGF/giphy.gif" alt='list'  width="500" height="255"/></a>
         </div>
 
         <div class="blog">
-        <h3>Linked Lists Explained</h3>
-        <a href="https://medium.com/@elizabeth.michael.karen/linked-lists-explained-bd2e2edbde97?sk=94a0f607a97d52faee5dca708f6aaba9" target="_blank"><img src="https://media1.giphy.com/media/2yvMb9LKQBaBW8wYGF/giphy.gif" alt='list'  width="500" height="255"/></a>
+        <h3>How to implement WebSockets</h3>
+        <a href="https://medium.com/@elizabeth.michael.karen/how-to-implement-websockets-50923f7251cf" target="_blank"><img src="https://thumbs.gfycat.com/AccurateUncommonCrow-size_restricted.gif" alt='hackers'  width="500" height="255"/></a>
         </div>
 
         <div class='blog'>
