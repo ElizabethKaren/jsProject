@@ -50,26 +50,29 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const work = `<div id='words'>
             <h3>Software Engineer at Mercury Analytics</h3>
-            <p>Develop quality software and web applications to analyize data</p>
+            <p>Develop quality software and web applications to analyize and display data</p>
             <h3>Fullstack Junior Developer at <a id='linkInWords' href='https://set-patrol.herokuapp.com/' target='_blank'>Set Patrol</a></h3>
-            <p>Building new website with custom landing pages and UX improvements, and backend development.</p>
+            <p>Built website and email templates</p>
+            <p>Created custom features such as search bar and dropdown</p>
+            <p>Implimented Google analytics</p>
             <h3>Fullstack Junior Developer at Socha</h3>
-            <p>Implemented WebSocket's and Bootsraps on Ruby on Rails app</p>
+            <p>Implemented WebSocket's</p>
             <p>Created PostgreSQL database</p>
+            <p>Built specs using RSpec to test functionality of Rails backend</p>
             <h3>Production and Product Development Manager at Gina Group</h3>
-            <p>Worked with buyers and factory owners in China and India to provide a high-quality product at the lowest price possible</p>
+            <p>Arranged with buyers and factory to provide a high-quality product at the lowest possible price</p>
             <h3>Production Coordinator at Amazon Apparel</h3>
             <p>Curated apparel department inside of Amazons vendor central</p>
             <h3>Production Coordinator at Mr Noah</h3>
             <p>Engineered detailed spec sheets for over a million dollars worth of apparel</p>
             <h3>Product Development Assistant at Sequin</h3>
-            <p>Developed millions of dollars worth of merchandise</p>
+            <p>Received and commented on millions of dollars worth of merchandise</p>
             <h3>Product Development Assistant at Alexis Bittar</h3>
-            <p>Created internal organizing system for all keep samples</p>
+            <p>Developed internal organizing system for all keep samples</p>
             <h3>Product Development Assistant at Kate Spade</h3>
-            <p>Created organizing system for all seasons and styles</p>
+            <p>Built organizing system for all seasons and styles</p>
             <h3>Jewelry Designer Assistant at ILD</h3>
-            <p>Assisted with jewelry creation</p>
+            <p>Created handmade jewelry</p>
         </div>`
 
     const education = `<div id='words'>
