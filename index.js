@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const work = `<div id='words'>
             <h3>Software Engineer at Mercury Analytics</h3>
             <p>Develop quality software and web applications to analyize and display data</p>
-            <h3>Fullstack Junior Developer at <a id='linkInWords' href='https://set-patrol.herokuapp.com/' target='_blank'>Set Patrol</a></h3>
+            <h3>Fullstack Junior Developer at Set Patrol</h3>
             <p>Built website and email templates</p>
             <p>Created custom features such as search bar and dropdown</p>
             <p>Implimented Google analytics</p>
@@ -88,9 +88,8 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const myVids = `<div class='video'>
     <h3>Set Patrol</h3>
-        <a href='https://set-patrol.herokuapp.com/' target="_blank"><img src='./Images/cameraSearch.png' alt='set patrol' width="500" height="255" /> </a>
+        <a href="https://github.com/Chase-42/SetPatrol" target="_blank"><img src='./Images/cameraSearch.png' alt='set patrol' width="500" height="255" /></a>
         <br>
-        <a href='https://set-patrol.herokuapp.com/' target="_blank">Website</a>&nbsp&nbsp
         <a href="https://github.com/Chase-42/SetPatrol" target="_blank">React Code</a>
     </div>
     
