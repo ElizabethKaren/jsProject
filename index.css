@@ -42,20 +42,10 @@
     font-size: 21px;
     text-shadow: 2px 2px #F9DCC4;
 }
-body{
-    /* wall background  */
-    /* background-image: url('https://i.pinimg.com/originals/a3/e5/2d/a3e52d0e3bb9e05275f8ccaca6b07037.png'); */
-    /* background-repeat: space; */
-    /* grass background */
-    /* background-image: url('https://previews.123rf.com/images/yakotina/yakotina1501/yakotina150100047/35368791-top-view-of-green-grass-with-small-white-flowers-background-texture.jpg'); */
-    /*white backgorund w plant */
+body {
     background-image: url("https://www.slideteam.net/media/catalog/product/cache/960x720/g/r/green_indoor_plant_with_white_background_stock_photo_Slide01.jpg") ;
-    /* background-image: url('https://image.freepik.com/free-photo/tropical-plants-white-background_49683-3775.jpg'); */
     font-size: 25px;
     font-family: 'Lobster Two', cursive;
-    /* background-image: url('https://render.fineartamerica.com/images/rendered/default/print/6.5/8/break/images-medium-5/potted-plants-on-shelves-wiliam-grigsby.jpg'); */
-    /* alternate background */
-    /* background-image: url('https://jessicawellinginteriors.com/wp-content/uploads/2020/04/indoor_hanging_garden-1228-1.jpg');  */
 }
 .main-container{
     display: flex;
@@ -78,7 +68,6 @@ p{
 #nav{
     display: flex;
     flex-direction: left;
-    /* background-image: url('./favhob.png'); */
 }
 #header{
     color: #f77f67;
