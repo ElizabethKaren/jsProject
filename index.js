@@ -2,15 +2,14 @@ document.addEventListener('DOMContentLoaded', function(){
  changeFavicon("https://i.pinimg.com/originals/84/0a/50/840a50493a532c3bc3c512486fc31ac7.png")
  buttons.addEventListener("click", (e) => renderText(e)) 
  main.innerHTML = content.videos
- buttons.querySelector("#videos").textDecoration = "none"
+ buttons.querySelector("#videos").style.textDecoration = "none"
 })
 
 const main = document.querySelector(".main-container")
 const buttons = document.querySelector('#buttons')
-const buttonIds = ["#blogs", "#ed", "#videos", "#work"]
 
 const renderText = e => {
-    buttonIds.map(button => document.querySelector(button).style.textDecoration = "line-through")
+    ["#blogs", "#ed", "#videos", "#work"].map(button => document.querySelector(button).style.textDecoration = "line-through")
     main.innerHTML = content[e.target.id]
     e.target.style.textDecoration = "none"
 }
