@@ -9,6 +9,8 @@ const main = document.querySelector(".main-container")
 const buttons = document.querySelector('#buttons')
 
 const renderText = e => {
+    if (e.target.id === "buttons") return
+
     ["#blogs", "#ed", "#videos", "#work"].map(button => document.querySelector(button).style.textDecoration = "line-through")
     main.innerHTML = content[e.target.id]
     e.target.style.textDecoration = "none"
