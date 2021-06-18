@@ -19,29 +19,6 @@
 #buttons label{
     text-decoration: line-through;
 }
-#seq{
-    padding: 2px 2px 2px 2px;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column; 
-    text-align: center;
-    justify-content: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-}
-#resume-purpose{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column; 
-    text-align: center;
-    text-decoration: none; 
-    margin-left: 20px;
-    margin-right: 20px;
-    color: #f77f67;
-    font-size: 21px;
-    text-shadow: 2px 2px #F9DCC4;
-}
 body {
     background-image: url("https://www.slideteam.net/media/catalog/product/cache/960x720/g/r/green_indoor_plant_with_white_background_stock_photo_Slide01.jpg") ;
     font-size: 25px;
@@ -61,18 +38,6 @@ p{
     font-size: 22px;
     text-shadow: 2px 2px #F8EDEB;
     font-size: x-large;
-}
-#img{
-    width: 100vw;
-}
-#nav{
-    display: flex;
-    flex-direction: left;
-}
-#header{
-    color: #f77f67;
-    font-size: 30px;
-    text-shadow: 2px 2px #F9DCC4;
 }
 .video{
     color: #f77f67;
@@ -164,11 +129,11 @@ a:visited {
    background-color: #fcd7b7;
    outline: 2px solid #fa927d;
    text-shadow: 1px 1px #F8EDEB;
-   margin-left: 40vw;
-   margin-right: 40vw;
+   margin-left: 35%;
+   margin-right: 40%;
    border-radius: 10px solid #FEC89A;
    opacity: 0.9;
-   width: fit-content;
+   width: 26vw;
 }
 .footer:hover{
     opacity: 1;
