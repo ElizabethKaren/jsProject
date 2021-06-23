@@ -1,11 +1,19 @@
+body {
+    background-image: url("https://www.slideteam.net/media/catalog/product/cache/960x720/g/r/green_indoor_plant_with_white_background_stock_photo_Slide01.jpg") ;
+    font-size: 25px;
+    font-family: 'Lobster Two', cursive;
+}
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 #buttons{
     text-align: center;
     text-decoration: none; 
     margin-top: 10px;
     color: #f77f67;
     text-shadow: 2px 2px #F8EDEB;
-    margin-left: 28vw;
-    margin-right: 25vw;
     background-color: #fcd7b7;
     outline: 2px solid #f77f67;
     border-radius: 10px solid #FFB5A7;
@@ -19,10 +27,21 @@
 #buttons label{
     text-decoration: line-through;
 }
-body {
-    background-image: url("https://www.slideteam.net/media/catalog/product/cache/960x720/g/r/green_indoor_plant_with_white_background_stock_photo_Slide01.jpg") ;
-    font-size: 25px;
-    font-family: 'Lobster Two', cursive;
+#blogs:hover{
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
+}
+#ed:hover{
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
+}
+#videos:hover{
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
+}
+#work:hover{
+    color: #F9DCC4;
+    text-shadow: 2px 2px #fa927d;
 }
 .main-container{
     display: flex;
@@ -94,7 +113,7 @@ p{
 #words:hover{
     opacity: 1;
 }
-#linkInWords{
+/* #linkInWords{
     font-size: xx-large;
     color: #f77f67;
     text-shadow: 3px 3px #F8EDEB;
@@ -102,7 +121,7 @@ p{
 #linkInWords:hover{
     color: #F8EDEB;
     text-shadow: 2px 2px #fa927d;
-}
+} */
 h3{
     color: #f77f67;
     text-shadow: 3px 3px #F8EDEB;
@@ -125,36 +144,19 @@ a:visited {
     text-decoration: none;
 }
 .footer{
+    flex-direction: left;
    text-align: center;
    background-color: #fcd7b7;
    outline: 2px solid #fa927d;
    text-shadow: 1px 1px #F8EDEB;
-   margin-left: 35%;
-   margin-right: 40%;
    border-radius: 10px solid #FEC89A;
    opacity: 0.9;
-   width: 26vw;
+   width: 37vw;
 }
 .footer:hover{
     opacity: 1;
 }
 .footer a:hover{
     color: #F8EDEB;
-    text-shadow: 2px 2px #fa927d;
-}
-#blogs:hover{
-    color: #F9DCC4;
-    text-shadow: 2px 2px #fa927d;
-}
-#ed:hover{
-    color: #F9DCC4;
-    text-shadow: 2px 2px #fa927d;
-}
-#videos:hover{
-    color: #F9DCC4;
-    text-shadow: 2px 2px #fa927d;
-}
-#work:hover{
-    color: #F9DCC4;
     text-shadow: 2px 2px #fa927d;
 }
