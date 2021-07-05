@@ -26,29 +26,46 @@ const changeFavicon = link => {
  const content = {
      work: `<div id='words'>
      <h3>Software Engineer at Mercury Analytics</h3>
-     <p>Develop quality software and web applications to analyize and display data</p>
+     <p>Built client specific Rake tasks to organize data to display on TypeScript React front-end.</p>
+     <p>Created and maintain transcript generating feature for multi-language use to conditionally render using CoffeeScript.</p>
+     <p>Plan and execute design and usability updates to improve UI/UX, toward client expectation and as directed by product team.</p>
+     <p>Built feature modifications to improve user experience using third party APIs.</p>
+     <p>Created a live video and chat feature on TypeScript React front end.</p>
+     <p>Upgrade and maintain Ruby on Rails backend.</p>
+
      <h3>Fullstack Junior Developer at Set Patrol</h3>
-     <p>Built website and email templates</p>
-     <p>Created custom features such as search bar and dropdown</p>
-     <p>Implimented Google analytics</p>
+     <p>Work with the Lead Developer and rest of the team to develop technical tasks.</p>
+     <p>Built website and responsive landing pages using Redux and SaaS.</p>
+     <p>Implemented Google maps API for users to search for products in their area.</p>
+     <p>Created and deployed solutions to work around technical limitations using test-driven development.</p>
+     <p>Built feature to seamlessly switch from English to Italian using state.</p>
+
      <h3>Fullstack Junior Developer at Socha</h3>
-     <p>Implemented WebSocket's</p>
-     <p>Created PostgreSQL database</p>
-     <p>Built specs using RSpec to test functionality of Rails backend</p>
+     <p>Implemented WebSockets enabling interaction between a web browser and a web server.</p>
+     <p>Created PostgreSQL database to store data.</p>
+     <p>Built RESTful APIs that served data to our JavaScript font end.</p>
+     <p>Implemented bootstrap in Ruby on Rails powered web app, modify and maintain styles.</p>
+
      <h3>Production and Product Development Manager at Gina Group</h3>
-     <p>Arranged with buyers and factory to provide a high-quality product at the lowest possible price</p>
+     <p>Arranged with buyers and factory to provide a high-quality product at the lowest possible price.</p>
+     
      <h3>Production Coordinator at Amazon Apparel</h3>
-     <p>Curated apparel department inside of Amazons vendor central</p>
+     <p>Curated apparel department inside of Amazons vendor central.</p>
+     
      <h3>Production Coordinator at Mr Noah</h3>
-     <p>Engineered detailed spec sheets for over a million dollars worth of apparel</p>
+     <p>Engineered detailed spec sheets for over a million dollars worth of apparel.</p>
+     
      <h3>Product Development Assistant at Sequin</h3>
-     <p>Received and commented on millions of dollars worth of merchandise</p>
+     <p>Received and commented on millions of dollars worth of merchandise.</p>
+     
      <h3>Product Development Assistant at Alexis Bittar</h3>
-     <p>Developed internal organizing system for all keep samples</p>
+     <p>Developed internal organizing system for all keep samples.</p>
+     
      <h3>Product Development Assistant at Kate Spade</h3>
-     <p>Built organizing system for all seasons and styles</p>
+     <p>Built organizing system for all seasons and styles.</p>
+     
      <h3>Jewelry Designer Assistant at ILD</h3>
-     <p>Created handmade jewelry</p>
+     <p>Created handmade jewelry.</p>
     </div>`,
 
     ed: `<div id='words'>

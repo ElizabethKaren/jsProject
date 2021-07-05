@@ -113,6 +113,9 @@ p{
 #words:hover{
     opacity: 1;
 }
+#words p{
+    font-size: 1.2rem;
+}
 /* #linkInWords{ /// TO USE LATER
     font-size: xx-large;
     color: #f77f67;
