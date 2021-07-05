@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function(){
+document.addEventListener('DOMContentLoaded', () => {
  changeFavicon("https://i.pinimg.com/originals/84/0a/50/840a50493a532c3bc3c512486fc31ac7.png")
  buttons.addEventListener("click", (e) => renderText(e)) 
  main.innerHTML = content.videos
@@ -50,6 +50,7 @@ const changeFavicon = link => {
      <h3>Jewelry Designer Assistant at ILD</h3>
      <p>Created handmade jewelry</p>
     </div>`,
+
     ed: `<div id='words'>
     <br/>
     <h3>Tufts University/School of the Museum of Fine Arts</h3>
@@ -60,6 +61,7 @@ const changeFavicon = link => {
     <p>Fashion Merchandising Buisness</p>
     <br/>
    </div>`, 
+
    videos: `<div class='video'>
    <h3>Set Patrol</h3>
    <a href="https://github.com/Chase-42/SetPatrol" target="_blank"><img src='./Images/cameraSearch.png' alt='set patrol' width="500" height="255" /></a>
@@ -162,6 +164,7 @@ const changeFavicon = link => {
    <br>
    <a href='https://github.com/ElizabethKaren/' target="_black">Ruby Terminal</a>
    </div>`,
+
    blogs: `<div class="blog">
    <h3>The Island Algorithm Explained</h3>
    <a href="https://medium.com/@elizabeth.michael.karen/the-island-algorithm-explained-60ab6bef682b?sk=9a5350c50a98eb9e7426918b5dfe0227" target="_blank"><img src="https://media1.tenor.com/images/6e8bef91a303b37079ae1c5ed2d0057c/tenor.gif?itemid=5702034" alt='island'  width="500" height="255"/></a>
