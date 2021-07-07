@@ -1,20 +1,20 @@
 document.addEventListener('DOMContentLoaded', () => {
- changeFavicon("https://i.pinimg.com/originals/84/0a/50/840a50493a532c3bc3c512486fc31ac7.png")
- buttons.addEventListener("click", (e) => renderText(e)) 
- main.innerHTML = content.videos
- buttons.querySelector("#videos").style.textDecoration = "none"
+ changeFavicon("https://hotemoji.com/images/dl/r/woman-technologist-emoji-by-twitter.png")
+//  buttons.addEventListener("click", (e) => renderText(e)) 
+//  main.innerHTML = content.videos
+//  buttons.querySelector("#videos").style.textDecoration = "none"
 })
 
-const main = document.querySelector(".main-container")
-const buttons = document.querySelector('#buttons')
+// const main = document.querySelector(".main-container")
+// const buttons = document.querySelector('#buttons')
 
-const renderText = e => {
-    if (e.target.id === "buttons") return
+// const renderText = e => {
+//     if (e.target.id === "buttons") return
 
-    ["#blogs", "#ed", "#videos", "#work"].map(button => document.querySelector(button).style.textDecoration = "line-through")
-    main.innerHTML = content[e.target.id]
-    e.target.style.textDecoration = "none"
-}
+//     ["#blogs", "#ed", "#videos", "#work"].map(button => document.querySelector(button).style.textDecoration = "line-through")
+//     main.innerHTML = content[e.target.id]
+//     e.target.style.textDecoration = "none"
+// }
 
 const changeFavicon = link => {
     const favicon = document.createElement("link")
