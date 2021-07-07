@@ -17,7 +17,7 @@ const renderText = e => {
 }
 
 const changeFavicon = link => {
-    let favicon = document.createElement("link")
+    const favicon = document.createElement("link")
     favicon.rel = "icon"
     favicon.href = link
     document.head.appendChild(favicon)
@@ -114,13 +114,6 @@ const changeFavicon = link => {
    <a href='https://github.com/ElizabethKaren/facebookclone_front_end' target="_blank">React Front End</a>&nbsp&nbsp
    <a href='https://github.com/ElizabethKaren/facebookclone_real_backend' target="_blank">Rails Back End</a>
    </div>
-   <div class="video">
-   <h3>Psychic Reader Game</h3>
-   <a href='https://psychicreading.netlify.app/' target="_blank"><img src="https://i.pinimg.com/564x/83/d5/f5/83d5f5a151ed5c3dce3e2d4b5af3a93f.jpg" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
-   <br>
-   <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
-   <a href='https://github.com/ElizabethKaren/furtune_teller_game' target="_blank">React Code</a>
-   </div>
    <div class='video'>
    <h3>API with RSpec and Custom Routes</h3>
    <a href='https://github.com/ElizabethKaren/artis_project' target="_blank"><img src='./Images/api.png' alt='api' width='500' height='255'/></a>
@@ -132,6 +125,13 @@ const changeFavicon = link => {
    <a href='https://github.com/ElizabethKaren/hooksproject' target='_blank'><img src='./Images/grocery.png' alt='grocery' width='500' height='255'></a>
    <br>
    <a href='https://github.com/ElizabethKaren/hooksproject' target='_blank'>React Code</a>
+   </div>
+   <div class="video">
+   <h3>Psychic Reader Game</h3>
+   <a href='https://psychicreading.netlify.app/' target="_blank"><img src="https://i.pinimg.com/564x/83/d5/f5/83d5f5a151ed5c3dce3e2d4b5af3a93f.jpg" width="500" height="255" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+   <br>
+   <a href='https://psychicreading.netlify.app/' target="_blank">Demo</a>&nbsp&nbsp
+   <a href='https://github.com/ElizabethKaren/furtune_teller_game' target="_blank">React Code</a>
    </div>
    <div class="video">
    <h3>Powerball Trivia Game</h3>
